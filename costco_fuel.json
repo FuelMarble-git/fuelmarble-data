@@ -1,5 +1,220 @@
 {
-  "updatedAt": "2025-12-24T09:00:00Z",
-  "items": [],
-  "errors": []
+  "updatedAt": "2025-12-24T14:47:38.836Z",
+  "items": [
+    {
+      "retailer": "Costco",
+      "site": "Costco Bristol",
+      "town": "Bristol",
+      "postcode": "BS11 9EZ",
+      "prices": {
+        "unleaded": 127.9,
+        "diesel": 137.9,
+        "super": 140.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Chester",
+      "town": "Chester",
+      "postcode": "CH1 6LT",
+      "prices": {
+        "unleaded": 120.9,
+        "diesel": 129.9,
+        "super": 140.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Coventry",
+      "town": "Coventry",
+      "postcode": "CV4 9AQ",
+      "prices": {
+        "unleaded": 118.9,
+        "diesel": 129.9,
+        "super": 124.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Derby",
+      "town": "Derby",
+      "postcode": "DE21 6RS",
+      "prices": {
+        "unleaded": 125.9,
+        "diesel": 133.9,
+        "super": 140.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Edinburgh",
+      "town": "Edinburgh",
+      "postcode": "EH20 9BY",
+      "prices": {
+        "unleaded": 126.9,
+        "diesel": 132.9,
+        "super": 135.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Gateshead",
+      "town": "Gateshead",
+      "postcode": "NE11 9DH",
+      "prices": {
+        "unleaded": 126.9,
+        "diesel": 136.9,
+        "super": 132.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Glasgow",
+      "town": "Glasgow",
+      "postcode": "G21 1YX",
+      "prices": {
+        "unleaded": 126.9,
+        "diesel": 137.9,
+        "super": 137.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Haydock",
+      "town": "Haydock",
+      "postcode": "WA11 9FA",
+      "prices": {
+        "unleaded": 123.9,
+        "diesel": 133.9,
+        "super": 138.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Leeds",
+      "town": "Leeds",
+      "postcode": "LS10 1BG",
+      "prices": {
+        "unleaded": 126.9,
+        "diesel": 135.9,
+        "super": 137.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Leicester",
+      "town": "Leicester",
+      "postcode": "LE4 8BX",
+      "prices": {
+        "unleaded": 128.9,
+        "diesel": 137.9,
+        "super": 140.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Liverpool",
+      "town": "Liverpool",
+      "postcode": "L3 7HY",
+      "prices": {
+        "unleaded": 107.9,
+        "diesel": 117.9,
+        "super": 135.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Manchester",
+      "town": "Manchester",
+      "postcode": "M41 7PP",
+      "prices": {
+        "unleaded": 124.9,
+        "diesel": 136.9,
+        "super": 138.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Oldham",
+      "town": "Oldham",
+      "postcode": "OL9 8AU",
+      "prices": {
+        "unleaded": 125.9,
+        "diesel": 134.9,
+        "super": 129.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Reading",
+      "town": "Reading",
+      "postcode": "RG2 6UE",
+      "prices": {
+        "unleaded": 129.9,
+        "diesel": 138.9,
+        "super": 139.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Sheffield",
+      "town": "Sheffield",
+      "postcode": "S9 4WU",
+      "prices": {
+        "unleaded": 126.9,
+        "diesel": 135.9,
+        "super": 136.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Southampton",
+      "town": "Southampton",
+      "postcode": "SO15 8TA",
+      "prices": {
+        "unleaded": 126.9,
+        "diesel": 136.9,
+        "super": 136.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Stevenage",
+      "town": "Stevenage",
+      "postcode": "SG1 2EH",
+      "prices": {
+        "unleaded": 128.9,
+        "diesel": 135.9,
+        "super": 137.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Thurrock",
+      "town": "Thurrock",
+      "postcode": "RM20 3WY",
+      "prices": {
+        "unleaded": 130.9,
+        "diesel": 138.9,
+        "super": 140.9
+      }
+    },
+    {
+      "retailer": "Costco",
+      "site": "Costco Watford",
+      "town": "Watford",
+      "postcode": "WD25 8JS",
+      "prices": {
+        "unleaded": 128.9,
+        "diesel": 138.9,
+        "super": 139.9
+      }
+    }
+  ],
+  "errors": [
+    {
+      "store": "Birmingham",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
+    }
+  ]
 }
