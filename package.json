@@ -1,0 +1,11 @@
+{
+  "name": "fuelmarble-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape:costco": "node scripts/scrape_costco.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
