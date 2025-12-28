@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-27T09:10:09.137Z",
+  "updatedAt": "2025-12-28T09:10:25.237Z",
   "items": [
     {
       "retailer": "Costco",
@@ -40,9 +40,9 @@
       "town": "Derby",
       "postcode": "DE21 6RS",
       "prices": {
-        "unleaded": 125.9,
+        "unleaded": 124.9,
         "diesel": 133.9,
-        "super": 140.9
+        "super": 134.9
       }
     },
     {
@@ -84,7 +84,7 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 123.9,
+        "unleaded": 128.9,
         "diesel": 133.9,
         "super": 137.9
       }
@@ -129,7 +129,7 @@
       "postcode": "M41 7PP",
       "prices": {
         "unleaded": 124.9,
-        "diesel": 136.9,
+        "diesel": 132.9,
         "super": 137.9
       }
     },
@@ -141,7 +141,7 @@
       "prices": {
         "unleaded": 124.9,
         "diesel": 133.9,
-        "super": 129.9
+        "super": 128.9
       }
     },
     {
@@ -194,9 +194,9 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 130.9,
+        "unleaded": 129.9,
         "diesel": 138.9,
-        "super": 140.9
+        "super": 139.9
       }
     },
     {
