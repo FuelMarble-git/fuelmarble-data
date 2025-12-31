@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-30T10:01:02.245Z",
+  "updatedAt": "2025-12-31T09:54:55.379Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,9 +7,9 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 127.9,
+        "unleaded": 125.9,
         "diesel": 135.9,
-        "super": 140.9
+        "super": 137.9
       }
     },
     {
@@ -63,7 +63,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 126.9,
-        "diesel": 137.9,
+        "diesel": 136.9,
         "super": 132.9
       }
     },
@@ -84,7 +84,7 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 128.9,
+        "unleaded": 123.9,
         "diesel": 133.9,
         "super": 137.9
       }
@@ -140,8 +140,8 @@
       "postcode": "OL9 8AU",
       "prices": {
         "unleaded": 124.9,
-        "diesel": 133.9,
-        "super": 128.9
+        "diesel": 132.9,
+        "super": 127.9
       }
     },
     {
@@ -207,7 +207,7 @@
       "prices": {
         "unleaded": 128.9,
         "diesel": 138.9,
-        "super": 139.9
+        "super": 138.9
       }
     }
   ],
