@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-31T09:54:55.379Z",
+  "updatedAt": "2026-01-01T09:54:04.999Z",
   "items": [
     {
       "retailer": "Costco",
@@ -84,8 +84,8 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 123.9,
-        "diesel": 133.9,
+        "unleaded": 122.9,
+        "diesel": 132.9,
         "super": 137.9
       }
     },
