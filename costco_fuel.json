@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-03T09:11:03.687Z",
+  "updatedAt": "2026-01-04T09:10:47.390Z",
   "items": [
     {
       "retailer": "Costco",
@@ -74,8 +74,8 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 126.9,
-        "diesel": 137.9,
-        "super": 137.9
+        "diesel": 136.9,
+        "super": 135.9
       }
     },
     {
@@ -96,7 +96,7 @@
       "postcode": "LS10 1BG",
       "prices": {
         "unleaded": 125.9,
-        "diesel": 134.9,
+        "diesel": 133.9,
         "super": 136.9
       }
     },
