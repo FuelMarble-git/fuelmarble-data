@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-11T09:09:59.260Z",
+  "updatedAt": "2026-01-12T10:07:02.455Z",
   "items": [
     {
       "retailer": "Costco",
@@ -194,9 +194,9 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 126.9,
-        "diesel": 135.9,
-        "super": 135.9
+        "unleaded": 125.9,
+        "diesel": 134.9,
+        "super": 134.9
       }
     },
     {
