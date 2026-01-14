@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-13T10:02:31.295Z",
+  "updatedAt": "2026-01-14T10:04:01.527Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,7 +7,7 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 125.9,
+        "unleaded": 124.9,
         "diesel": 134.9,
         "super": 137.9
       }
