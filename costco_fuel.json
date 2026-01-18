@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T09:10:22.737Z",
+  "updatedAt": "2026-01-18T09:09:55.162Z",
   "items": [
     {
       "retailer": "Costco",
@@ -108,7 +108,7 @@
       "prices": {
         "unleaded": 127.9,
         "diesel": 136.9,
-        "super": 139.9
+        "super": 138.9
       }
     },
     {
@@ -130,7 +130,7 @@
       "prices": {
         "unleaded": 122.9,
         "diesel": 130.9,
-        "super": 134.9
+        "super": 133.9
       }
     },
     {
@@ -172,7 +172,7 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 125.9,
+        "unleaded": 124.9,
         "diesel": 135.9,
         "super": 135.9
       }
@@ -184,7 +184,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 125.9,
-        "diesel": 133.9,
+        "diesel": 134.9,
         "super": 135.9
       }
     },
@@ -207,7 +207,7 @@
       "prices": {
         "unleaded": 123.9,
         "diesel": 133.9,
-        "super": 136.9
+        "super": 135.9
       }
     }
   ],
