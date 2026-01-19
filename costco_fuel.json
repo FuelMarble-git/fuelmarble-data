@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T09:09:55.162Z",
+  "updatedAt": "2026-01-19T10:10:18.503Z",
   "items": [
     {
       "retailer": "Costco",
@@ -64,7 +64,7 @@
       "prices": {
         "unleaded": 124.9,
         "diesel": 133.9,
-        "super": 129.9
+        "super": 128.9
       }
     },
     {
@@ -183,8 +183,8 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 125.9,
-        "diesel": 134.9,
+        "unleaded": 124.9,
+        "diesel": 133.9,
         "super": 135.9
       }
     },
