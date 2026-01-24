@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T10:04:30.460Z",
+  "updatedAt": "2026-01-24T09:11:43.121Z",
   "items": [
     {
       "retailer": "Costco",
@@ -117,8 +117,8 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 108.9,
-        "diesel": 118.9,
+        "unleaded": 109.9,
+        "diesel": 120.9,
         "super": 127.9
       }
     },
