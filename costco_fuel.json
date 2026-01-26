@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T09:11:59.811Z",
+  "updatedAt": "2026-01-26T09:32:03.223Z",
   "items": [
     {
       "retailer": "Costco",
@@ -19,7 +19,7 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 119.9,
-        "diesel": 129.9,
+        "diesel": 130.9,
         "super": 136.9
       }
     },
