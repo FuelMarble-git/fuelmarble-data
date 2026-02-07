@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T09:40:51.656Z",
+  "updatedAt": "2026-02-07T09:27:58.689Z",
   "items": [
     {
       "retailer": "Costco",
@@ -64,7 +64,7 @@
       "prices": {
         "unleaded": 122.9,
         "diesel": 133.9,
-        "super": 131.9
+        "super": 133.9
       }
     },
     {
@@ -108,7 +108,7 @@
       "prices": {
         "unleaded": 126.9,
         "diesel": 135.9,
-        "super": 138.9
+        "super": 136.9
       }
     },
     {
@@ -150,7 +150,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 124.9,
+        "unleaded": 123.9,
         "diesel": 133.9,
         "super": 133.9
       }
@@ -183,7 +183,7 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 123.9,
+        "unleaded": 124.9,
         "diesel": 132.9,
         "super": 133.9
       }
