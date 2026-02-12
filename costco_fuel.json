@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T09:49:27.107Z",
+  "updatedAt": "2026-02-12T09:45:45.916Z",
   "items": [
     {
       "retailer": "Costco",
@@ -117,8 +117,8 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 111.9,
-        "diesel": 123.9,
+        "unleaded": 112.9,
+        "diesel": 124.9,
         "super": 129.9
       }
     },
@@ -150,7 +150,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 123.9,
+        "unleaded": 122.9,
         "diesel": 133.9,
         "super": 133.9
       }
@@ -172,7 +172,7 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 124.9,
+        "unleaded": 123.9,
         "diesel": 133.9,
         "super": 134.9
       }
@@ -194,9 +194,9 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 124.9,
-        "diesel": 134.9,
-        "super": 133.9
+        "unleaded": 123.9,
+        "diesel": 133.9,
+        "super": 132.9
       }
     },
     {
@@ -205,7 +205,7 @@
       "town": "Watford",
       "postcode": "WD25 8JS",
       "prices": {
-        "unleaded": 123.9,
+        "unleaded": 124.9,
         "diesel": 134.9,
         "super": 133.9
       }
