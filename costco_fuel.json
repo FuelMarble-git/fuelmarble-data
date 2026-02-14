@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T09:41:49.971Z",
+  "updatedAt": "2026-02-14T09:28:48.718Z",
   "items": [
     {
       "retailer": "Costco",
@@ -64,7 +64,7 @@
       "prices": {
         "unleaded": 122.9,
         "diesel": 133.9,
-        "super": 133.9
+        "super": 132.9
       }
     },
     {
@@ -117,8 +117,8 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 112.9,
-        "diesel": 124.9,
+        "unleaded": 113.9,
+        "diesel": 125.9,
         "super": 129.9
       }
     },
@@ -139,9 +139,9 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 122.9,
+        "unleaded": 121.9,
         "diesel": 130.9,
-        "super": 131.9
+        "super": 130.9
       }
     },
     {
@@ -150,9 +150,9 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 122.9,
+        "unleaded": 123.9,
         "diesel": 133.9,
-        "super": 133.9
+        "super": 132.9
       }
     },
     {
