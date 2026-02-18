@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-17T09:45:23.215Z",
+  "updatedAt": "2026-02-18T09:43:29.294Z",
   "items": [
     {
       "retailer": "Costco",
@@ -95,8 +95,8 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 117.9,
-        "diesel": 128.9,
+        "unleaded": 118.9,
+        "diesel": 129.9,
         "super": 122.9
       }
     },
