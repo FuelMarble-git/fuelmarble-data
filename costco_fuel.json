@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-19T09:42:55.921Z",
+  "updatedAt": "2026-02-20T09:38:47.949Z",
   "items": [
     {
       "retailer": "Costco",
@@ -151,7 +151,7 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 123.9,
-        "diesel": 133.9,
+        "diesel": 134.9,
         "super": 132.9
       }
     },
