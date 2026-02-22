@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T09:27:29.025Z",
+  "updatedAt": "2026-02-22T09:27:35.435Z",
   "items": [
     {
       "retailer": "Costco",
@@ -97,7 +97,7 @@
       "prices": {
         "unleaded": 118.9,
         "diesel": 130.9,
-        "super": 122.9
+        "super": 123.9
       }
     },
     {
@@ -150,7 +150,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 123.9,
+        "unleaded": 124.9,
         "diesel": 134.9,
         "super": 133.9
       }
