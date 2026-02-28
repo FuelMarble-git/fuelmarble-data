@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-02-27T09:38:42.637Z",
+  "updatedAt": "2026-02-28T09:24:49.633Z",
   "items": [
-    {
-      "retailer": "Costco",
-      "site": "Costco Bristol",
-      "town": "Bristol",
-      "postcode": "BS11 9EZ",
-      "prices": {
-        "unleaded": 123.9,
-        "diesel": 132.9,
-        "super": 135.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Chester",
-      "town": "Chester",
-      "postcode": "CH1 6LT",
-      "prices": {
-        "unleaded": 122.9,
-        "diesel": 134.9,
-        "super": 137.9
-      }
-    },
     {
       "retailer": "Costco",
       "site": "Costco Coventry",
@@ -30,7 +8,7 @@
       "postcode": "CV4 9AQ",
       "prices": {
         "unleaded": 121.9,
-        "diesel": 130.9,
+        "diesel": 131.9,
         "super": 129.9
       }
     },
@@ -47,28 +25,6 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Edinburgh",
-      "town": "Edinburgh",
-      "postcode": "EH20 9BY",
-      "prices": {
-        "unleaded": 124.9,
-        "diesel": 132.9,
-        "super": 133.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Gateshead",
-      "town": "Gateshead",
-      "postcode": "NE11 9DH",
-      "prices": {
-        "unleaded": 123.9,
-        "diesel": 133.9,
-        "super": 133.9
-      }
-    },
-    {
-      "retailer": "Costco",
       "site": "Costco Glasgow",
       "town": "Glasgow",
       "postcode": "G21 1YX",
@@ -80,17 +36,6 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Haydock",
-      "town": "Haydock",
-      "postcode": "WA11 9FA",
-      "prices": {
-        "unleaded": 122.9,
-        "diesel": 132.9,
-        "super": 133.9
-      }
-    },
-    {
-      "retailer": "Costco",
       "site": "Costco Leeds",
       "town": "Leeds",
       "postcode": "LS10 1BG",
@@ -98,17 +43,6 @@
         "unleaded": 119.9,
         "diesel": 131.9,
         "super": 126.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Leicester",
-      "town": "Leicester",
-      "postcode": "LE4 8BX",
-      "prices": {
-        "unleaded": 126.9,
-        "diesel": 135.9,
-        "super": 136.9
       }
     },
     {
@@ -135,39 +69,6 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Oldham",
-      "town": "Oldham",
-      "postcode": "OL9 8AU",
-      "prices": {
-        "unleaded": 122.9,
-        "diesel": 130.9,
-        "super": 131.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Reading",
-      "town": "Reading",
-      "postcode": "RG2 6UE",
-      "prices": {
-        "unleaded": 124.9,
-        "diesel": 134.9,
-        "super": 133.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Sheffield",
-      "town": "Sheffield",
-      "postcode": "S9 4WU",
-      "prices": {
-        "unleaded": 122.9,
-        "diesel": 132.9,
-        "super": 132.9
-      }
-    },
-    {
-      "retailer": "Costco",
       "site": "Costco Southampton",
       "town": "Southampton",
       "postcode": "SO15 8TA",
@@ -175,17 +76,6 @@
         "unleaded": 123.9,
         "diesel": 133.9,
         "super": 134.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Stevenage",
-      "town": "Stevenage",
-      "postcode": "SG1 2EH",
-      "prices": {
-        "unleaded": 124.9,
-        "diesel": 132.9,
-        "super": 133.9
       }
     },
     {
@@ -215,6 +105,46 @@
     {
       "store": "Birmingham",
       "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
+    },
+    {
+      "store": "Bristol",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Chester",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Edinburgh",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Gateshead",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Haydock",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Leicester",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Oldham",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Reading",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Sheffield",
+      "error": "No prices found in rendered text"
+    },
+    {
+      "store": "Stevenage",
+      "error": "No prices found in rendered text"
     }
   ]
 }
