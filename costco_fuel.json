@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T09:45:06.703Z",
+  "updatedAt": "2026-03-03T09:39:03.700Z",
   "items": [
     {
       "retailer": "Costco",
@@ -18,8 +18,8 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 122.9,
-        "diesel": 134.9,
+        "unleaded": 123.9,
+        "diesel": 135.9,
         "super": 137.9
       }
     },
@@ -150,8 +150,8 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 124.9,
-        "diesel": 134.9,
+        "unleaded": 125.9,
+        "diesel": 135.9,
         "super": 134.9
       }
     },
