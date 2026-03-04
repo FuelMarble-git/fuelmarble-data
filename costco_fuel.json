@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T09:39:03.700Z",
+  "updatedAt": "2026-03-04T09:37:22.053Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,9 +7,9 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 123.9,
-        "diesel": 132.9,
-        "super": 135.9
+        "unleaded": 124.9,
+        "diesel": 133.9,
+        "super": 136.9
       }
     },
     {
@@ -18,7 +18,7 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 123.9,
+        "unleaded": 125.9,
         "diesel": 135.9,
         "super": 137.9
       }
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 121.9,
         "diesel": 131.9,
-        "super": 129.9
+        "super": 132.9
       }
     },
     {
@@ -95,9 +95,9 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 119.9,
-        "diesel": 131.9,
-        "super": 126.9
+        "unleaded": 120.9,
+        "diesel": 132.9,
+        "super": 129.9
       }
     },
     {
@@ -152,7 +152,7 @@
       "prices": {
         "unleaded": 125.9,
         "diesel": 135.9,
-        "super": 134.9
+        "super": 135.9
       }
     },
     {
@@ -163,7 +163,7 @@
       "prices": {
         "unleaded": 122.9,
         "diesel": 132.9,
-        "super": 132.9
+        "super": 133.9
       }
     },
     {
@@ -174,7 +174,7 @@
       "prices": {
         "unleaded": 123.9,
         "diesel": 133.9,
-        "super": 134.9
+        "super": 135.9
       }
     },
     {
