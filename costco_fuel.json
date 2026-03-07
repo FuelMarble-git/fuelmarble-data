@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T09:35:32.727Z",
+  "updatedAt": "2026-03-07T09:27:06.962Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,9 +7,9 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 126.9,
-        "diesel": 136.9,
-        "super": 138.9
+        "unleaded": 128.9,
+        "diesel": 138.9,
+        "super": 141.9
       }
     },
     {
@@ -20,7 +20,7 @@
       "prices": {
         "unleaded": 125.9,
         "diesel": 135.9,
-        "super": 139.9
+        "super": 141.9
       }
     },
     {
@@ -29,8 +29,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 123.9,
-        "diesel": 133.9,
+        "unleaded": 125.9,
+        "diesel": 134.9,
         "super": 136.9
       }
     },
@@ -51,9 +51,9 @@
       "town": "Edinburgh",
       "postcode": "EH20 9BY",
       "prices": {
-        "unleaded": 127.9,
-        "diesel": 135.9,
-        "super": 136.9
+        "unleaded": 128.9,
+        "diesel": 138.9,
+        "super": 137.9
       }
     },
     {
@@ -62,9 +62,9 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 125.9,
-        "diesel": 137.9,
-        "super": 137.9
+        "unleaded": 126.9,
+        "diesel": 138.9,
+        "super": 138.9
       }
     },
     {
@@ -73,9 +73,9 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 125.9,
-        "diesel": 137.9,
-        "super": 137.9
+        "unleaded": 126.9,
+        "diesel": 139.9,
+        "super": 138.9
       }
     },
     {
@@ -84,9 +84,9 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 127.9,
-        "diesel": 135.9,
-        "super": 136.9
+        "unleaded": 128.9,
+        "diesel": 137.9,
+        "super": 137.9
       }
     },
     {
@@ -95,8 +95,8 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 121.9,
-        "diesel": 133.9,
+        "unleaded": 122.9,
+        "diesel": 134.9,
         "super": 136.9
       }
     },
@@ -117,8 +117,8 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 117.9,
-        "diesel": 129.9,
+        "unleaded": 119.9,
+        "diesel": 131.9,
         "super": 129.9
       }
     },
@@ -128,8 +128,8 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 124.9,
-        "diesel": 136.9,
+        "unleaded": 126.9,
+        "diesel": 137.9,
         "super": 136.9
       }
     },
@@ -140,7 +140,7 @@
       "postcode": "OL9 8AU",
       "prices": {
         "unleaded": 125.9,
-        "diesel": 134.9,
+        "diesel": 135.9,
         "super": 134.9
       }
     },
@@ -152,7 +152,7 @@
       "prices": {
         "unleaded": 128.9,
         "diesel": 138.9,
-        "super": 137.9
+        "super": 138.9
       }
     },
     {
@@ -161,8 +161,8 @@
       "town": "Sheffield",
       "postcode": "S9 4WU",
       "prices": {
-        "unleaded": 123.9,
-        "diesel": 135.9,
+        "unleaded": 125.9,
+        "diesel": 137.9,
         "super": 136.9
       }
     },
@@ -172,9 +172,9 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 126.9,
-        "diesel": 136.9,
-        "super": 136.9
+        "unleaded": 127.9,
+        "diesel": 137.9,
+        "super": 138.9
       }
     },
     {
@@ -183,9 +183,9 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 127.9,
-        "diesel": 136.9,
-        "super": 137.9
+        "unleaded": 128.9,
+        "diesel": 139.9,
+        "super": 138.9
       }
     },
     {
@@ -194,9 +194,9 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 127.9,
-        "diesel": 137.9,
-        "super": 136.9
+        "unleaded": 128.9,
+        "diesel": 138.9,
+        "super": 137.9
       }
     },
     {
@@ -206,7 +206,7 @@
       "postcode": "WD25 8JS",
       "prices": {
         "unleaded": 127.9,
-        "diesel": 137.9,
+        "diesel": 139.9,
         "super": 137.9
       }
     }
