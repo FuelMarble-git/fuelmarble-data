@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T09:41:41.109Z",
+  "updatedAt": "2026-03-13T09:37:52.811Z",
   "items": [
     {
       "retailer": "Costco",
@@ -8,8 +8,8 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 132.9,
-        "diesel": 150.9,
-        "super": 145.9
+        "diesel": 152.9,
+        "super": 146.9
       }
     },
     {
@@ -19,7 +19,7 @@
       "postcode": "CV4 9AQ",
       "prices": {
         "unleaded": 131.9,
-        "diesel": 139.9,
+        "diesel": 144.9,
         "super": 140.9
       }
     },
@@ -41,7 +41,7 @@
       "postcode": "EH20 9BY",
       "prices": {
         "unleaded": 133.9,
-        "diesel": 147.9,
+        "diesel": 150.9,
         "super": 142.9
       }
     },
@@ -52,7 +52,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 130.9,
-        "diesel": 146.9,
+        "diesel": 148.9,
         "super": 141.9
       }
     },
@@ -63,7 +63,7 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 131.9,
-        "diesel": 148.9,
+        "diesel": 149.9,
         "super": 142.9
       }
     },
@@ -74,7 +74,7 @@
       "postcode": "WA11 9FA",
       "prices": {
         "unleaded": 130.9,
-        "diesel": 143.9,
+        "diesel": 146.9,
         "super": 137.9
       }
     },
@@ -97,7 +97,7 @@
       "prices": {
         "unleaded": 134.9,
         "diesel": 149.9,
-        "super": 144.9
+        "super": 145.9
       }
     },
     {
@@ -118,8 +118,8 @@
       "postcode": "M41 7PP",
       "prices": {
         "unleaded": 130.9,
-        "diesel": 142.9,
-        "super": 138.9
+        "diesel": 145.9,
+        "super": 139.9
       }
     },
     {
@@ -151,7 +151,7 @@
       "postcode": "S9 4WU",
       "prices": {
         "unleaded": 130.9,
-        "diesel": 145.9,
+        "diesel": 149.9,
         "super": 137.9
       }
     },
@@ -173,7 +173,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 133.9,
-        "diesel": 149.9,
+        "diesel": 150.9,
         "super": 143.9
       }
     },
