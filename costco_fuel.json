@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T09:37:52.811Z",
+  "updatedAt": "2026-03-14T09:30:52.508Z",
   "items": [
     {
       "retailer": "Costco",
@@ -53,7 +53,7 @@
       "prices": {
         "unleaded": 130.9,
         "diesel": 148.9,
-        "super": 141.9
+        "super": 142.9
       }
     },
     {
@@ -63,7 +63,7 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 131.9,
-        "diesel": 149.9,
+        "diesel": 151.9,
         "super": 142.9
       }
     },
@@ -74,7 +74,7 @@
       "postcode": "WA11 9FA",
       "prices": {
         "unleaded": 130.9,
-        "diesel": 146.9,
+        "diesel": 148.9,
         "super": 137.9
       }
     },
@@ -129,7 +129,7 @@
       "postcode": "OL9 8AU",
       "prices": {
         "unleaded": 131.9,
-        "diesel": 143.9,
+        "diesel": 149.9,
         "super": 140.9
       }
     },
@@ -172,8 +172,8 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 133.9,
-        "diesel": 150.9,
+        "unleaded": 134.9,
+        "diesel": 151.9,
         "super": 143.9
       }
     },
