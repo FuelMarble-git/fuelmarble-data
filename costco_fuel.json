@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T09:30:52.508Z",
+  "updatedAt": "2026-03-15T09:31:45.055Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,7 +7,7 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 132.9,
+        "unleaded": 133.9,
         "diesel": 152.9,
         "super": 146.9
       }
@@ -18,8 +18,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 131.9,
-        "diesel": 144.9,
+        "unleaded": 132.9,
+        "diesel": 148.9,
         "super": 140.9
       }
     },
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 131.9,
         "diesel": 147.9,
-        "super": 142.9
+        "super": 145.9
       }
     },
     {
@@ -41,7 +41,7 @@
       "postcode": "EH20 9BY",
       "prices": {
         "unleaded": 133.9,
-        "diesel": 150.9,
+        "diesel": 151.9,
         "super": 142.9
       }
     },
@@ -62,8 +62,8 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 131.9,
-        "diesel": 151.9,
+        "unleaded": 133.9,
+        "diesel": 153.9,
         "super": 142.9
       }
     },
@@ -73,7 +73,7 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 130.9,
+        "unleaded": 131.9,
         "diesel": 148.9,
         "super": 137.9
       }
@@ -86,7 +86,7 @@
       "prices": {
         "unleaded": 129.9,
         "diesel": 146.9,
-        "super": 139.9
+        "super": 141.9
       }
     },
     {
@@ -107,7 +107,7 @@
       "postcode": "L3 7HY",
       "prices": {
         "unleaded": 129.9,
-        "diesel": 143.9,
+        "diesel": 146.9,
         "super": 138.9
       }
     },
@@ -129,7 +129,7 @@
       "postcode": "OL9 8AU",
       "prices": {
         "unleaded": 131.9,
-        "diesel": 149.9,
+        "diesel": 150.9,
         "super": 140.9
       }
     },
@@ -163,7 +163,7 @@
       "prices": {
         "unleaded": 131.9,
         "diesel": 149.9,
-        "super": 138.9
+        "super": 144.9
       }
     },
     {
@@ -173,7 +173,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 134.9,
-        "diesel": 151.9,
+        "diesel": 153.9,
         "super": 143.9
       }
     },
@@ -185,7 +185,7 @@
       "prices": {
         "unleaded": 132.9,
         "diesel": 148.9,
-        "super": 138.9
+        "super": 142.9
       }
     },
     {
