@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T09:35:14.753Z",
+  "updatedAt": "2026-03-30T10:13:36.224Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,9 +7,9 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 140.9,
-        "diesel": 166.9,
-        "super": 151.9
+        "unleaded": 143.9,
+        "diesel": 170.9,
+        "super": 154.9
       }
     },
     {
@@ -18,8 +18,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 137.9,
-        "diesel": 163.9,
+        "unleaded": 139.9,
+        "diesel": 164.9,
         "super": 147.9
       }
     },
@@ -29,9 +29,9 @@
       "town": "Derby",
       "postcode": "DE21 6RS",
       "prices": {
-        "unleaded": 138.9,
-        "diesel": 163.9,
-        "super": 149.9
+        "unleaded": 139.9,
+        "diesel": 164.9,
+        "super": 152.9
       }
     },
     {
@@ -40,8 +40,8 @@
       "town": "Edinburgh",
       "postcode": "EH20 9BY",
       "prices": {
-        "unleaded": 137.9,
-        "diesel": 163.9,
+        "unleaded": 139.9,
+        "diesel": 166.9,
         "super": 147.9
       }
     },
@@ -51,9 +51,9 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 138.9,
-        "diesel": 163.9,
-        "super": 149.9
+        "unleaded": 140.9,
+        "diesel": 166.9,
+        "super": 150.9
       }
     },
     {
@@ -62,7 +62,7 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 139.9,
+        "unleaded": 140.9,
         "diesel": 164.9,
         "super": 150.9
       }
@@ -84,8 +84,8 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 135.9,
-        "diesel": 161.9,
+        "unleaded": 138.9,
+        "diesel": 164.9,
         "super": 146.9
       }
     },
@@ -95,8 +95,8 @@
       "town": "Leicester",
       "postcode": "LE4 8BX",
       "prices": {
-        "unleaded": 143.9,
-        "diesel": 166.9,
+        "unleaded": 144.9,
+        "diesel": 170.9,
         "super": 153.9
       }
     },
@@ -106,8 +106,8 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 140.9,
-        "diesel": 163.9,
+        "unleaded": 141.9,
+        "diesel": 165.9,
         "super": 144.9
       }
     },
@@ -117,9 +117,9 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 139.9,
-        "diesel": 162.9,
-        "super": 147.9
+        "unleaded": 140.9,
+        "diesel": 165.9,
+        "super": 148.9
       }
     },
     {
@@ -140,7 +140,7 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 141.9,
-        "diesel": 167.9,
+        "diesel": 168.9,
         "super": 150.9
       }
     },
@@ -150,8 +150,8 @@
       "town": "Sheffield",
       "postcode": "S9 4WU",
       "prices": {
-        "unleaded": 136.9,
-        "diesel": 162.9,
+        "unleaded": 137.9,
+        "diesel": 165.9,
         "super": 145.9
       }
     },
@@ -161,9 +161,9 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 143.9,
+        "unleaded": 144.9,
         "diesel": 167.9,
-        "super": 144.9
+        "super": 149.9
       }
     },
     {
@@ -172,8 +172,8 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 142.9,
-        "diesel": 161.9,
+        "unleaded": 144.9,
+        "diesel": 166.9,
         "super": 152.9
       }
     },
@@ -183,8 +183,8 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 137.9,
-        "diesel": 162.9,
+        "unleaded": 139.9,
+        "diesel": 166.9,
         "super": 147.9
       }
     },
@@ -194,8 +194,8 @@
       "town": "Watford",
       "postcode": "WD25 8JS",
       "prices": {
-        "unleaded": 139.9,
-        "diesel": 163.9,
+        "unleaded": 141.9,
+        "diesel": 167.9,
         "super": 149.9
       }
     }
