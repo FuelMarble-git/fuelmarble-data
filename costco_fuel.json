@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T10:07:28.253Z",
+  "updatedAt": "2026-04-11T09:39:59.050Z",
   "items": [
     {
       "retailer": "Costco",
@@ -19,7 +19,7 @@
       "postcode": "CV4 9AQ",
       "prices": {
         "unleaded": 148.9,
-        "diesel": 177.9,
+        "diesel": 181.9,
         "super": 159.9
       }
     },
@@ -52,7 +52,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 183.9,
+        "diesel": 185.9,
         "super": 162.9
       }
     },
@@ -63,7 +63,7 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 184.9,
+        "diesel": 185.9,
         "super": 161.9
       }
     },
@@ -95,8 +95,8 @@
       "town": "Leicester",
       "postcode": "LE4 8BX",
       "prices": {
-        "unleaded": 155.9,
-        "diesel": 187.9,
+        "unleaded": 156.9,
+        "diesel": 188.9,
         "super": 164.9
       }
     },
@@ -130,7 +130,7 @@
       "prices": {
         "unleaded": 148.9,
         "diesel": 181.9,
-        "super": 158.9
+        "super": 159.9
       }
     },
     {
@@ -150,7 +150,7 @@
       "town": "Sheffield",
       "postcode": "S9 4WU",
       "prices": {
-        "unleaded": 149.9,
+        "unleaded": 150.9,
         "diesel": 182.9,
         "super": 160.9
       }
@@ -163,7 +163,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 182.9,
-        "super": 158.9
+        "super": 161.9
       }
     },
     {
