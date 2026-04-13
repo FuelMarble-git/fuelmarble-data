@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T09:45:02.918Z",
+  "updatedAt": "2026-04-13T10:34:30.748Z",
   "items": [
     {
       "retailer": "Costco",
@@ -19,7 +19,7 @@
       "postcode": "CV4 9AQ",
       "prices": {
         "unleaded": 148.9,
-        "diesel": 181.9,
+        "diesel": 183.9,
         "super": 159.9
       }
     },
@@ -106,7 +106,7 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 149.9,
+        "unleaded": 147.9,
         "diesel": 180.9,
         "super": 159.9
       }
@@ -163,7 +163,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 184.9,
-        "super": 161.9
+        "super": 163.9
       }
     },
     {
