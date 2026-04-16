@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T10:14:55.946Z",
+  "updatedAt": "2026-04-16T10:14:11.256Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,8 +7,8 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 148.9,
-        "diesel": 178.9,
+        "unleaded": 151.9,
+        "diesel": 176.9,
         "super": 167.9
       }
     },
@@ -20,7 +20,7 @@
       "prices": {
         "unleaded": 149.9,
         "diesel": 183.9,
-        "super": 159.9
+        "super": 160.9
       }
     },
     {
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 147.9,
         "diesel": 181.9,
-        "super": 163.9
+        "super": 162.9
       }
     },
     {
@@ -51,9 +51,9 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 152.9,
-        "diesel": 185.9,
-        "super": 162.9
+        "unleaded": 153.9,
+        "diesel": 186.9,
+        "super": 163.9
       }
     },
     {
@@ -95,9 +95,9 @@
       "town": "Leicester",
       "postcode": "LE4 8BX",
       "prices": {
-        "unleaded": 155.9,
+        "unleaded": 156.9,
         "diesel": 187.9,
-        "super": 164.9
+        "super": 165.9
       }
     },
     {
@@ -106,9 +106,9 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 149.9,
-        "diesel": 181.9,
-        "super": 159.9
+        "unleaded": 147.9,
+        "diesel": 177.9,
+        "super": 157.9
       }
     },
     {
@@ -128,7 +128,7 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 148.9,
+        "unleaded": 147.9,
         "diesel": 181.9,
         "super": 158.9
       }
@@ -140,8 +140,8 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 186.9,
-        "super": 161.9
+        "diesel": 187.9,
+        "super": 162.9
       }
     },
     {
@@ -173,7 +173,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 154.9,
-        "diesel": 182.9,
+        "diesel": 183.9,
         "super": 163.9
       }
     },
@@ -184,8 +184,8 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 150.9,
-        "diesel": 185.9,
-        "super": 161.9
+        "diesel": 184.9,
+        "super": 160.9
       }
     },
     {
