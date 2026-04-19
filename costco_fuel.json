@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T09:46:42.156Z",
+  "updatedAt": "2026-04-19T09:46:16.618Z",
   "items": [
     {
       "retailer": "Costco",
@@ -62,7 +62,7 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 152.9,
+        "unleaded": 147.9,
         "diesel": 185.9,
         "super": 161.9
       }
@@ -73,8 +73,8 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 150.9,
-        "diesel": 182.9,
+        "unleaded": 148.9,
+        "diesel": 181.9,
         "super": 159.9
       }
     },
@@ -162,8 +162,8 @@
       "postcode": "SO15 8TA",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 184.9,
-        "super": 160.9
+        "diesel": 182.9,
+        "super": 163.9
       }
     },
     {
@@ -172,7 +172,7 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 154.9,
+        "unleaded": 152.9,
         "diesel": 183.9,
         "super": 163.9
       }
