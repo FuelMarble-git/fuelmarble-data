@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T10:18:08.964Z",
+  "updatedAt": "2026-04-22T10:18:28.116Z",
   "items": [
     {
       "retailer": "Costco",
@@ -95,8 +95,8 @@
       "town": "Leicester",
       "postcode": "LE4 8BX",
       "prices": {
-        "unleaded": 153.9,
-        "diesel": 186.9,
+        "unleaded": 154.9,
+        "diesel": 187.9,
         "super": 165.9
       }
     },
@@ -117,8 +117,8 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 148.9,
-        "diesel": 178.9,
+        "unleaded": 146.9,
+        "diesel": 172.9,
         "super": 160.9
       }
     },
@@ -128,7 +128,7 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 146.9,
+        "unleaded": 147.9,
         "diesel": 178.9,
         "super": 158.9
       }
