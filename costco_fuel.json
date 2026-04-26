@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T09:49:36.133Z",
+  "updatedAt": "2026-04-26T09:51:08.159Z",
   "items": [
     {
       "retailer": "Costco",
@@ -18,7 +18,7 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 148.9,
+        "unleaded": 151.9,
         "diesel": 174.9,
         "super": 166.9
       }
@@ -62,8 +62,8 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 152.9,
-        "diesel": 186.9,
+        "unleaded": 151.9,
+        "diesel": 185.9,
         "super": 162.9
       }
     },
@@ -73,7 +73,7 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 148.9,
+        "unleaded": 149.9,
         "diesel": 185.9,
         "super": 159.9
       }
@@ -107,7 +107,7 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 154.9,
-        "diesel": 187.9,
+        "diesel": 186.9,
         "super": 165.9
       }
     },
@@ -130,7 +130,7 @@
       "prices": {
         "unleaded": 146.9,
         "diesel": 172.9,
-        "super": 159.9
+        "super": 157.9
       }
     },
     {
@@ -151,7 +151,7 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 188.9,
+        "diesel": 186.9,
         "super": 162.9
       }
     },
@@ -194,8 +194,8 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 150.9,
-        "diesel": 183.9,
+        "unleaded": 149.9,
+        "diesel": 182.9,
         "super": 159.9
       }
     },
