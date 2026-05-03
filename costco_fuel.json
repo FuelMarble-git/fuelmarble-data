@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-05-02T10:00:29.746Z",
+  "updatedAt": "2026-05-03T10:07:52.827Z",
   "items": [
-    {
-      "retailer": "Costco",
-      "site": "Costco Bristol",
-      "town": "Bristol",
-      "postcode": "BS11 9EZ",
-      "prices": {
-        "unleaded": 150.9,
-        "diesel": 185.9,
-        "super": 162.9
-      }
-    },
     {
       "retailer": "Costco",
       "site": "Costco Chester",
@@ -63,7 +52,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 148.9,
-        "diesel": 184.9,
+        "diesel": 183.9,
         "super": 160.9
       }
     },
@@ -107,7 +96,7 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 183.9,
+        "diesel": 182.9,
         "super": 164.9
       }
     },
@@ -215,6 +204,10 @@
     {
       "store": "Birmingham",
       "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
+    },
+    {
+      "store": "Bristol",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Bristol\", waiting until \"networkidle\"\n"
     }
   ]
 }
