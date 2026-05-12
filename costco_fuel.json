@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T12:02:38.937Z",
+  "updatedAt": "2026-05-12T11:18:36.064Z",
   "items": [
     {
       "retailer": "Costco",
@@ -30,7 +30,7 @@
       "postcode": "DE21 6RS",
       "prices": {
         "unleaded": 150.9,
-        "diesel": 181.9,
+        "diesel": 179.9,
         "super": 163.9
       }
     },
@@ -64,7 +64,7 @@
       "prices": {
         "unleaded": 149.9,
         "diesel": 180.9,
-        "super": 158.9
+        "super": 157.9
       }
     },
     {
