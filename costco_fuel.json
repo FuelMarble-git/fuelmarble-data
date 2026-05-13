@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T11:18:36.064Z",
+  "updatedAt": "2026-05-13T11:27:58.441Z",
   "items": [
     {
       "retailer": "Costco",
@@ -64,7 +64,7 @@
       "prices": {
         "unleaded": 149.9,
         "diesel": 180.9,
-        "super": 157.9
+        "super": 158.9
       }
     },
     {
@@ -74,7 +74,7 @@
       "postcode": "WA11 9FA",
       "prices": {
         "unleaded": 150.9,
-        "diesel": 178.9,
+        "diesel": 181.9,
         "super": 158.9
       }
     },
@@ -162,7 +162,7 @@
       "postcode": "SO15 8TA",
       "prices": {
         "unleaded": 153.9,
-        "diesel": 183.9,
+        "diesel": 181.9,
         "super": 163.9
       }
     },
