@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T12:00:51.788Z",
+  "updatedAt": "2026-05-20T11:49:21.089Z",
   "items": [
     {
       "retailer": "Costco",
@@ -128,7 +128,7 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 147.9,
+        "unleaded": 148.9,
         "diesel": 176.9,
         "super": 157.9
       }
@@ -141,7 +141,7 @@
       "prices": {
         "unleaded": 152.9,
         "diesel": 182.9,
-        "super": 161.9
+        "super": 162.9
       }
     },
     {
@@ -161,9 +161,9 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 154.9,
+        "unleaded": 155.9,
         "diesel": 181.9,
-        "super": 157.9
+        "super": 165.9
       }
     },
     {
