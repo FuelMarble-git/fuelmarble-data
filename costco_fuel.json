@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-05-21T12:09:02.088Z",
+  "updatedAt": "2026-05-22T11:46:09.953Z",
   "items": [
-    {
-      "retailer": "Costco",
-      "site": "Costco Bristol",
-      "town": "Bristol",
-      "postcode": "BS11 9EZ",
-      "prices": {
-        "unleaded": 151.9,
-        "diesel": 179.9,
-        "super": 164.9
-      }
-    },
     {
       "retailer": "Costco",
       "site": "Costco Chester",
@@ -31,7 +20,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 180.9,
-        "super": 160.9
+        "super": 161.9
       }
     },
     {
@@ -41,7 +30,7 @@
       "postcode": "DE21 6RS",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 179.9,
+        "diesel": 177.9,
         "super": 163.9
       }
     },
@@ -53,7 +42,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 181.9,
-        "super": 159.9
+        "super": 160.9
       }
     },
     {
@@ -63,7 +52,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 179.9,
+        "diesel": 177.9,
         "super": 163.9
       }
     },
@@ -75,7 +64,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 178.9,
-        "super": 160.9
+        "super": 161.9
       }
     },
     {
@@ -95,9 +84,9 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 148.9,
-        "diesel": 176.9,
-        "super": 159.9
+        "unleaded": 149.9,
+        "diesel": 177.9,
+        "super": 160.9
       }
     },
     {
@@ -108,7 +97,7 @@
       "prices": {
         "unleaded": 153.9,
         "diesel": 180.9,
-        "super": 162.9
+        "super": 163.9
       }
     },
     {
@@ -128,8 +117,8 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 147.9,
-        "diesel": 174.9,
+        "unleaded": 148.9,
+        "diesel": 175.9,
         "super": 158.9
       }
     },
@@ -141,7 +130,7 @@
       "prices": {
         "unleaded": 148.9,
         "diesel": 176.9,
-        "super": 157.9
+        "super": 158.9
       }
     },
     {
@@ -152,7 +141,7 @@
       "prices": {
         "unleaded": 152.9,
         "diesel": 182.9,
-        "super": 162.9
+        "super": 163.9
       }
     },
     {
@@ -163,7 +152,7 @@
       "prices": {
         "unleaded": 151.9,
         "diesel": 177.9,
-        "super": 160.9
+        "super": 161.9
       }
     },
     {
@@ -174,7 +163,7 @@
       "prices": {
         "unleaded": 155.9,
         "diesel": 181.9,
-        "super": 165.9
+        "super": 166.9
       }
     },
     {
@@ -185,7 +174,7 @@
       "prices": {
         "unleaded": 153.9,
         "diesel": 180.9,
-        "super": 162.9
+        "super": 163.9
       }
     },
     {
@@ -207,7 +196,7 @@
       "prices": {
         "unleaded": 151.9,
         "diesel": 179.9,
-        "super": 161.9
+        "super": 162.9
       }
     }
   ],
@@ -215,6 +204,10 @@
     {
       "store": "Birmingham",
       "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
+    },
+    {
+      "store": "Bristol",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Bristol\", waiting until \"networkidle\"\n"
     }
   ]
 }
