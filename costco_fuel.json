@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-05-24T10:34:03.397Z",
+  "updatedAt": "2026-05-27T12:16:20.876Z",
   "items": [
+    {
+      "retailer": "Costco",
+      "site": "Costco Bristol",
+      "town": "Bristol",
+      "postcode": "BS11 9EZ",
+      "prices": {
+        "unleaded": 152.9,
+        "diesel": 178.9,
+        "super": 164.9
+      }
+    },
     {
       "retailer": "Costco",
       "site": "Costco Chester",
@@ -9,7 +20,7 @@
       "prices": {
         "unleaded": 154.9,
         "diesel": 175.9,
-        "super": 166.9
+        "super": 167.9
       }
     },
     {
@@ -52,7 +63,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 178.9,
+        "diesel": 177.9,
         "super": 163.9
       }
     },
@@ -75,7 +86,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 173.9,
-        "super": 158.9
+        "super": 160.9
       }
     },
     {
@@ -96,7 +107,7 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 153.9,
-        "diesel": 178.9,
+        "diesel": 177.9,
         "super": 163.9
       }
     },
@@ -139,7 +150,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 151.9,
+        "unleaded": 152.9,
         "diesel": 182.9,
         "super": 163.9
       }
@@ -184,7 +195,7 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 147.9,
-        "diesel": 176.9,
+        "diesel": 173.9,
         "super": 157.9
       }
     },
@@ -204,10 +215,6 @@
     {
       "store": "Birmingham",
       "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
-    },
-    {
-      "store": "Bristol",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Bristol\", waiting until \"networkidle\"\n"
     }
   ]
 }
