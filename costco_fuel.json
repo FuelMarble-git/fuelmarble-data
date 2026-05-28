@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-05-27T12:16:20.876Z",
+  "updatedAt": "2026-05-28T12:27:09.893Z",
   "items": [
-    {
-      "retailer": "Costco",
-      "site": "Costco Bristol",
-      "town": "Bristol",
-      "postcode": "BS11 9EZ",
-      "prices": {
-        "unleaded": 152.9,
-        "diesel": 178.9,
-        "super": 164.9
-      }
-    },
     {
       "retailer": "Costco",
       "site": "Costco Chester",
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 154.9,
-        "diesel": 175.9,
+        "unleaded": 153.9,
+        "diesel": 173.9,
         "super": 167.9
       }
     },
@@ -51,7 +40,7 @@
       "town": "Edinburgh",
       "postcode": "EH20 9BY",
       "prices": {
-        "unleaded": 150.9,
+        "unleaded": 151.9,
         "diesel": 180.9,
         "super": 160.9
       }
@@ -95,8 +84,8 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 148.9,
-        "diesel": 177.9,
+        "unleaded": 149.9,
+        "diesel": 176.9,
         "super": 160.9
       }
     },
@@ -107,7 +96,7 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 153.9,
-        "diesel": 177.9,
+        "diesel": 175.9,
         "super": 163.9
       }
     },
@@ -117,9 +106,9 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 146.9,
+        "unleaded": 149.9,
         "diesel": 177.9,
-        "super": 156.9
+        "super": 158.9
       }
     },
     {
@@ -139,7 +128,7 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 148.9,
+        "unleaded": 149.9,
         "diesel": 176.9,
         "super": 158.9
       }
@@ -151,7 +140,7 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 182.9,
+        "diesel": 181.9,
         "super": 163.9
       }
     },
@@ -172,7 +161,7 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 156.9,
+        "unleaded": 155.9,
         "diesel": 181.9,
         "super": 166.9
       }
@@ -215,6 +204,10 @@
     {
       "store": "Birmingham",
       "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
+    },
+    {
+      "store": "Bristol",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Bristol\", waiting until \"networkidle\"\n"
     }
   ]
 }
