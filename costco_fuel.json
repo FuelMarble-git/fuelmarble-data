@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-05-29T12:09:25.689Z",
+  "updatedAt": "2026-05-30T10:41:22.526Z",
   "items": [
-    {
-      "retailer": "Costco",
-      "site": "Costco Bristol",
-      "town": "Bristol",
-      "postcode": "BS11 9EZ",
-      "prices": {
-        "unleaded": 152.9,
-        "diesel": 178.9,
-        "super": 164.9
-      }
-    },
     {
       "retailer": "Costco",
       "site": "Costco Chester",
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 153.9,
-        "diesel": 173.9,
+        "unleaded": 150.9,
+        "diesel": 171.9,
         "super": 167.9
       }
     },
@@ -52,7 +41,7 @@
       "postcode": "EH20 9BY",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 180.9,
+        "diesel": 178.9,
         "super": 160.9
       }
     },
@@ -74,7 +63,7 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 178.9,
+        "diesel": 177.9,
         "super": 161.9
       }
     },
@@ -107,8 +96,8 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 153.9,
-        "diesel": 175.9,
-        "super": 163.9
+        "diesel": 173.9,
+        "super": 162.9
       }
     },
     {
@@ -172,9 +161,9 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 155.9,
+        "unleaded": 154.9,
         "diesel": 181.9,
-        "super": 166.9
+        "super": 168.9
       }
     },
     {
@@ -206,7 +195,7 @@
       "postcode": "WD25 8JS",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 178.9,
+        "diesel": 177.9,
         "super": 162.9
       }
     }
@@ -215,6 +204,10 @@
     {
       "store": "Birmingham",
       "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
+    },
+    {
+      "store": "Bristol",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Bristol\", waiting until \"networkidle\"\n"
     }
   ]
 }
