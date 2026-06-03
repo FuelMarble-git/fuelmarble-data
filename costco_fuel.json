@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T12:42:25.612Z",
+  "updatedAt": "2026-06-03T13:13:39.864Z",
   "items": [
     {
       "retailer": "Costco",
@@ -9,7 +9,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 171.9,
-        "super": 167.9
+        "super": 166.9
       }
     },
     {
@@ -18,7 +18,7 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 151.9,
+        "unleaded": 152.9,
         "diesel": 175.9,
         "super": 161.9
       }
@@ -29,7 +29,7 @@
       "town": "Derby",
       "postcode": "DE21 6RS",
       "prices": {
-        "unleaded": 151.9,
+        "unleaded": 149.9,
         "diesel": 177.9,
         "super": 163.9
       }
@@ -41,7 +41,7 @@
       "postcode": "EH20 9BY",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 175.9,
+        "diesel": 174.9,
         "super": 160.9
       }
     },
@@ -75,7 +75,7 @@
       "prices": {
         "unleaded": 150.9,
         "diesel": 173.9,
-        "super": 160.9
+        "super": 158.9
       }
     },
     {
@@ -85,7 +85,7 @@
       "postcode": "LS10 1BG",
       "prices": {
         "unleaded": 147.9,
-        "diesel": 176.9,
+        "diesel": 174.9,
         "super": 157.9
       }
     },
@@ -162,7 +162,7 @@
       "postcode": "SO15 8TA",
       "prices": {
         "unleaded": 153.9,
-        "diesel": 179.9,
+        "diesel": 178.9,
         "super": 167.9
       }
     },
@@ -173,7 +173,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 154.9,
-        "diesel": 177.9,
+        "diesel": 176.9,
         "super": 163.9
       }
     },
@@ -195,7 +195,7 @@
       "postcode": "WD25 8JS",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 177.9,
+        "diesel": 176.9,
         "super": 162.9
       }
     }
