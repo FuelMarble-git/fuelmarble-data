@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T13:13:39.864Z",
+  "updatedAt": "2026-06-04T11:52:34.855Z",
   "items": [
     {
       "retailer": "Costco",
@@ -52,7 +52,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 177.9,
+        "diesel": 176.9,
         "super": 163.9
       }
     },
@@ -96,7 +96,7 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 153.9,
-        "diesel": 175.9,
+        "diesel": 174.9,
         "super": 162.9
       }
     },
@@ -118,7 +118,7 @@
       "postcode": "M41 7PP",
       "prices": {
         "unleaded": 147.9,
-        "diesel": 174.9,
+        "diesel": 170.9,
         "super": 158.9
       }
     },
@@ -151,8 +151,8 @@
       "postcode": "S9 4WU",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 176.9,
-        "super": 161.9
+        "diesel": 175.9,
+        "super": 159.9
       }
     },
     {
@@ -163,7 +163,7 @@
       "prices": {
         "unleaded": 153.9,
         "diesel": 178.9,
-        "super": 167.9
+        "super": 165.9
       }
     },
     {
@@ -173,7 +173,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 154.9,
-        "diesel": 176.9,
+        "diesel": 175.9,
         "super": 163.9
       }
     },
@@ -184,8 +184,8 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 147.9,
-        "diesel": 172.9,
-        "super": 157.9
+        "diesel": 171.9,
+        "super": 156.9
       }
     },
     {
@@ -195,8 +195,8 @@
       "postcode": "WD25 8JS",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 176.9,
-        "super": 162.9
+        "diesel": 175.9,
+        "super": 161.9
       }
     }
   ],
