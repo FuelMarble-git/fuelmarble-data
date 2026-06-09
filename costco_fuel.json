@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-06-08T13:04:20.059Z",
+  "updatedAt": "2026-06-09T12:00:12.023Z",
   "items": [
+    {
+      "retailer": "Costco",
+      "site": "Costco Bristol",
+      "town": "Bristol",
+      "postcode": "BS11 9EZ",
+      "prices": {
+        "unleaded": 148.9,
+        "diesel": 174.9,
+        "super": 160.9
+      }
+    },
     {
       "retailer": "Costco",
       "site": "Costco Chester",
@@ -8,7 +19,7 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 150.9,
-        "diesel": 171.9,
+        "diesel": 170.9,
         "super": 164.9
       }
     },
@@ -30,7 +41,7 @@
       "postcode": "DE21 6RS",
       "prices": {
         "unleaded": 149.9,
-        "diesel": 175.9,
+        "diesel": 173.9,
         "super": 161.9
       }
     },
@@ -41,7 +52,7 @@
       "postcode": "EH20 9BY",
       "prices": {
         "unleaded": 149.9,
-        "diesel": 172.9,
+        "diesel": 170.9,
         "super": 160.9
       }
     },
@@ -52,7 +63,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 149.9,
-        "diesel": 173.9,
+        "diesel": 171.9,
         "super": 161.9
       }
     },
@@ -63,7 +74,7 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 149.9,
-        "diesel": 171.9,
+        "diesel": 169.9,
         "super": 161.9
       }
     },
@@ -85,7 +96,7 @@
       "postcode": "LS10 1BG",
       "prices": {
         "unleaded": 146.9,
-        "diesel": 171.9,
+        "diesel": 169.9,
         "super": 157.9
       }
     },
@@ -96,7 +107,7 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 172.9,
+        "diesel": 170.9,
         "super": 162.9
       }
     },
@@ -151,7 +162,7 @@
       "postcode": "S9 4WU",
       "prices": {
         "unleaded": 149.9,
-        "diesel": 173.9,
+        "diesel": 171.9,
         "super": 159.9
       }
     },
@@ -162,7 +173,7 @@
       "postcode": "SO15 8TA",
       "prices": {
         "unleaded": 153.9,
-        "diesel": 176.9,
+        "diesel": 175.9,
         "super": 165.9
       }
     },
@@ -173,7 +184,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 173.9,
+        "diesel": 171.9,
         "super": 163.9
       }
     },
@@ -204,10 +215,6 @@
     {
       "store": "Birmingham",
       "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Birmingham\", waiting until \"networkidle\"\n"
-    },
-    {
-      "store": "Bristol",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Bristol\", waiting until \"networkidle\"\n"
     }
   ]
 }
