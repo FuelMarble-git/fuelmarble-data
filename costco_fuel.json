@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T11:34:18.544Z",
+  "updatedAt": "2026-07-03T11:31:20.452Z",
   "items": [
     {
       "retailer": "Costco",
@@ -18,8 +18,8 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 146.9,
-        "diesel": 160.9,
+        "unleaded": 145.9,
+        "diesel": 158.9,
         "super": 159.9
       }
     },
@@ -29,7 +29,7 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 147.9,
+        "unleaded": 145.9,
         "diesel": 158.9,
         "super": 155.9
       }
@@ -40,8 +40,8 @@
       "town": "Derby",
       "postcode": "DE21 6RS",
       "prices": {
-        "unleaded": 145.9,
-        "diesel": 160.9,
+        "unleaded": 143.9,
+        "diesel": 156.9,
         "super": 157.9
       }
     },
@@ -52,7 +52,7 @@
       "postcode": "EH20 9BY",
       "prices": {
         "unleaded": 144.9,
-        "diesel": 158.9,
+        "diesel": 157.9,
         "super": 153.9
       }
     },
@@ -85,7 +85,7 @@
       "postcode": "WA11 9FA",
       "prices": {
         "unleaded": 141.9,
-        "diesel": 157.9,
+        "diesel": 155.9,
         "super": 152.9
       }
     },
@@ -107,7 +107,7 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 145.9,
-        "diesel": 157.9,
+        "diesel": 156.9,
         "super": 154.9
       }
     },
@@ -150,7 +150,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 145.9,
+        "unleaded": 144.9,
         "diesel": 161.9,
         "super": 156.9
       }
