@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T10:55:34.931Z",
+  "updatedAt": "2026-07-05T11:04:57.679Z",
   "items": [
     {
       "retailer": "Costco",
@@ -19,7 +19,7 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 145.9,
-        "diesel": 158.9,
+        "diesel": 157.9,
         "super": 158.9
       }
     },
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 145.9,
         "diesel": 157.9,
-        "super": 155.9
+        "super": 154.9
       }
     },
     {
@@ -53,7 +53,7 @@
       "prices": {
         "unleaded": 143.9,
         "diesel": 156.9,
-        "super": 153.9
+        "super": 152.9
       }
     },
     {
@@ -73,7 +73,7 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 143.9,
+        "unleaded": 142.9,
         "diesel": 155.9,
         "super": 152.9
       }
@@ -84,7 +84,7 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 141.9,
+        "unleaded": 138.9,
         "diesel": 155.9,
         "super": 150.9
       }
@@ -108,7 +108,7 @@
       "prices": {
         "unleaded": 144.9,
         "diesel": 155.9,
-        "super": 154.9
+        "super": 153.9
       }
     },
     {
@@ -161,8 +161,8 @@
       "town": "Sheffield",
       "postcode": "S9 4WU",
       "prices": {
-        "unleaded": 142.9,
-        "diesel": 155.9,
+        "unleaded": 143.9,
+        "diesel": 156.9,
         "super": 152.9
       }
     },
@@ -185,7 +185,7 @@
       "prices": {
         "unleaded": 146.9,
         "diesel": 156.9,
-        "super": 156.9
+        "super": 155.9
       }
     },
     {
@@ -196,7 +196,7 @@
       "prices": {
         "unleaded": 139.9,
         "diesel": 150.9,
-        "super": 149.9
+        "super": 148.9
       }
     },
     {
@@ -207,7 +207,7 @@
       "prices": {
         "unleaded": 143.9,
         "diesel": 156.9,
-        "super": 154.9
+        "super": 153.9
       }
     }
   ],
