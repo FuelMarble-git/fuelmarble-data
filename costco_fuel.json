@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T11:04:57.679Z",
+  "updatedAt": "2026-07-06T12:42:17.133Z",
   "items": [
     {
       "retailer": "Costco",
@@ -96,7 +96,7 @@
       "postcode": "LS10 1BG",
       "prices": {
         "unleaded": 141.9,
-        "diesel": 153.9,
+        "diesel": 154.9,
         "super": 151.9
       }
     },
@@ -108,7 +108,7 @@
       "prices": {
         "unleaded": 144.9,
         "diesel": 155.9,
-        "super": 153.9
+        "super": 154.9
       }
     },
     {
@@ -174,7 +174,7 @@
       "prices": {
         "unleaded": 145.9,
         "diesel": 159.9,
-        "super": 157.9
+        "super": 156.9
       }
     },
     {
