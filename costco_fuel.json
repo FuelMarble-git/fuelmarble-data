@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T11:44:46.286Z",
+  "updatedAt": "2026-07-08T11:02:55.428Z",
   "items": [
     {
       "retailer": "Costco",
@@ -19,7 +19,7 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 144.9,
-        "diesel": 157.9,
+        "diesel": 156.9,
         "super": 158.9
       }
     },
@@ -29,8 +29,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 145.9,
-        "diesel": 156.9,
+        "unleaded": 144.9,
+        "diesel": 154.9,
         "super": 154.9
       }
     },
