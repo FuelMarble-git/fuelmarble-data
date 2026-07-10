@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T11:56:12.131Z",
+  "updatedAt": "2026-07-10T11:48:30.461Z",
   "items": [
     {
       "retailer": "Costco",
@@ -73,8 +73,8 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 140.9,
-        "diesel": 153.9,
+        "unleaded": 141.9,
+        "diesel": 154.9,
         "super": 151.9
       }
     },
@@ -96,7 +96,7 @@
       "postcode": "LS10 1BG",
       "prices": {
         "unleaded": 141.9,
-        "diesel": 152.9,
+        "diesel": 153.9,
         "super": 151.9
       }
     },
@@ -141,7 +141,7 @@
       "prices": {
         "unleaded": 138.9,
         "diesel": 152.9,
-        "super": 147.9
+        "super": 149.9
       }
     },
     {
@@ -196,7 +196,7 @@
       "prices": {
         "unleaded": 139.9,
         "diesel": 150.9,
-        "super": 148.9
+        "super": 149.9
       }
     },
     {
