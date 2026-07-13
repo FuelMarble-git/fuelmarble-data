@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T10:27:04.655Z",
+  "updatedAt": "2026-07-13T11:56:26.911Z",
   "items": [
     {
       "retailer": "Costco",
@@ -62,7 +62,7 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 141.9,
+        "unleaded": 142.9,
         "diesel": 152.9,
         "super": 153.9
       }
@@ -108,7 +108,7 @@
       "prices": {
         "unleaded": 143.9,
         "diesel": 154.9,
-        "super": 152.9
+        "super": 153.9
       }
     },
     {
@@ -174,7 +174,7 @@
       "prices": {
         "unleaded": 143.9,
         "diesel": 157.9,
-        "super": 155.9
+        "super": 156.9
       }
     },
     {
