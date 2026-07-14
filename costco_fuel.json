@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T11:56:26.911Z",
+  "updatedAt": "2026-07-14T10:37:39.941Z",
   "items": [
     {
       "retailer": "Costco",
@@ -84,8 +84,8 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 137.9,
-        "diesel": 151.9,
+        "unleaded": 139.9,
+        "diesel": 154.9,
         "super": 150.9
       }
     },
@@ -139,7 +139,7 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 138.9,
+        "unleaded": 139.9,
         "diesel": 152.9,
         "super": 150.9
       }
@@ -195,7 +195,7 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 139.9,
-        "diesel": 151.9,
+        "diesel": 152.9,
         "super": 150.9
       }
     },
