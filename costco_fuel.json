@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T10:41:36.626Z",
+  "updatedAt": "2026-07-16T10:57:35.772Z",
   "items": [
     {
       "retailer": "Costco",
@@ -20,7 +20,7 @@
       "prices": {
         "unleaded": 147.9,
         "diesel": 157.9,
-        "super": 160.9
+        "super": 161.9
       }
     },
     {
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 144.9,
         "diesel": 154.9,
-        "super": 155.9
+        "super": 156.9
       }
     },
     {
@@ -63,7 +63,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 142.9,
-        "diesel": 152.9,
+        "diesel": 153.9,
         "super": 153.9
       }
     },
@@ -84,7 +84,7 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 139.9,
+        "unleaded": 140.9,
         "diesel": 154.9,
         "super": 150.9
       }
@@ -95,9 +95,9 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 141.9,
+        "unleaded": 142.9,
         "diesel": 154.9,
-        "super": 151.9
+        "super": 150.9
       }
     },
     {
@@ -128,7 +128,7 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 141.9,
+        "unleaded": 142.9,
         "diesel": 155.9,
         "super": 148.9
       }
@@ -150,7 +150,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 144.9,
+        "unleaded": 146.9,
         "diesel": 159.9,
         "super": 156.9
       }
