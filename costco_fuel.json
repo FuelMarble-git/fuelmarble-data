@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T10:37:45.834Z",
+  "updatedAt": "2026-07-18T10:15:54.423Z",
   "items": [
     {
       "retailer": "Costco",
@@ -20,7 +20,7 @@
       "prices": {
         "unleaded": 147.9,
         "diesel": 157.9,
-        "super": 161.9
+        "super": 162.9
       }
     },
     {
@@ -51,8 +51,8 @@
       "town": "Edinburgh",
       "postcode": "EH20 9BY",
       "prices": {
-        "unleaded": 141.9,
-        "diesel": 154.9,
+        "unleaded": 142.9,
+        "diesel": 156.9,
         "super": 152.9
       }
     },
@@ -63,7 +63,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 143.9,
-        "diesel": 153.9,
+        "diesel": 154.9,
         "super": 155.9
       }
     },
@@ -95,9 +95,9 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 142.9,
+        "unleaded": 143.9,
         "diesel": 156.9,
-        "super": 150.9
+        "super": 153.9
       }
     },
     {
@@ -106,7 +106,7 @@
       "town": "Leicester",
       "postcode": "LE4 8BX",
       "prices": {
-        "unleaded": 143.9,
+        "unleaded": 144.9,
         "diesel": 155.9,
         "super": 155.9
       }
@@ -129,8 +129,8 @@
       "postcode": "M41 7PP",
       "prices": {
         "unleaded": 143.9,
-        "diesel": 156.9,
-        "super": 148.9
+        "diesel": 157.9,
+        "super": 153.9
       }
     },
     {
@@ -139,8 +139,8 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 139.9,
-        "diesel": 153.9,
+        "unleaded": 140.9,
+        "diesel": 154.9,
         "super": 151.9
       }
     },
@@ -152,7 +152,7 @@
       "prices": {
         "unleaded": 146.9,
         "diesel": 160.9,
-        "super": 156.9
+        "super": 157.9
       }
     },
     {
@@ -195,7 +195,7 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 140.9,
-        "diesel": 153.9,
+        "diesel": 154.9,
         "super": 151.9
       }
     },
