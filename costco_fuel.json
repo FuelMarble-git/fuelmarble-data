@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T11:41:11.208Z",
+  "updatedAt": "2026-07-21T11:03:41.787Z",
   "items": [
     {
       "retailer": "Costco",
@@ -29,7 +29,7 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 144.9,
+        "unleaded": 145.9,
         "diesel": 154.9,
         "super": 157.9
       }
@@ -84,8 +84,8 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 137.9,
-        "diesel": 152.9,
+        "unleaded": 141.9,
+        "diesel": 155.9,
         "super": 152.9
       }
     },
@@ -119,7 +119,7 @@
       "prices": {
         "unleaded": 142.9,
         "diesel": 157.9,
-        "super": 152.9
+        "super": 157.9
       }
     },
     {
@@ -139,9 +139,9 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 140.9,
-        "diesel": 156.9,
-        "super": 152.9
+        "unleaded": 141.9,
+        "diesel": 157.9,
+        "super": 153.9
       }
     },
     {
@@ -151,7 +151,7 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 146.9,
-        "diesel": 161.9,
+        "diesel": 163.9,
         "super": 158.9
       }
     },
@@ -172,7 +172,7 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 143.9,
+        "unleaded": 145.9,
         "diesel": 159.9,
         "super": 157.9
       }
@@ -184,7 +184,7 @@
       "postcode": "SG1 2EH",
       "prices": {
         "unleaded": 146.9,
-        "diesel": 158.9,
+        "diesel": 159.9,
         "super": 157.9
       }
     },
@@ -195,7 +195,7 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 140.9,
-        "diesel": 156.9,
+        "diesel": 157.9,
         "super": 153.9
       }
     },
