@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:33:40.582Z",
+  "updatedAt": "2026-08-09T09:35:19.835Z",
   "items": [
     {
       "retailer": "Costco",
@@ -30,7 +30,7 @@
       "postcode": "CV4 9AQ",
       "prices": {
         "unleaded": 154.9,
-        "diesel": 173.9,
+        "diesel": 174.9,
         "super": 167.9
       }
     },
@@ -62,7 +62,7 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 155.9,
+        "unleaded": 154.9,
         "diesel": 173.9,
         "super": 167.9
       }
@@ -195,8 +195,8 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 155.9,
-        "diesel": 171.9,
-        "super": 165.9
+        "diesel": 172.9,
+        "super": 163.9
       }
     },
     {
