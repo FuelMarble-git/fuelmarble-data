@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T10:00:26.900Z",
+  "updatedAt": "2026-08-13T10:00:42.218Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,7 +7,7 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 153.9,
+        "unleaded": 154.9,
         "diesel": 173.9,
         "super": 166.9
       }
@@ -18,9 +18,9 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 147.9,
-        "diesel": 170.9,
-        "super": 173.9
+        "unleaded": 150.9,
+        "diesel": 173.9,
+        "super": 171.9
       }
     },
     {
@@ -53,7 +53,7 @@
       "prices": {
         "unleaded": 151.9,
         "diesel": 169.9,
-        "super": 163.9
+        "super": 162.9
       }
     },
     {
@@ -64,7 +64,7 @@
       "prices": {
         "unleaded": 154.9,
         "diesel": 173.9,
-        "super": 167.9
+        "super": 166.9
       }
     },
     {
@@ -73,7 +73,7 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 156.9,
+        "unleaded": 155.9,
         "diesel": 175.9,
         "super": 166.9
       }
@@ -86,7 +86,7 @@
       "prices": {
         "unleaded": 151.9,
         "diesel": 173.9,
-        "super": 159.9
+        "super": 161.9
       }
     },
     {
@@ -141,7 +141,7 @@
       "prices": {
         "unleaded": 151.9,
         "diesel": 170.9,
-        "super": 163.9
+        "super": 162.9
       }
     },
     {
@@ -172,7 +172,7 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 152.9,
+        "unleaded": 153.9,
         "diesel": 172.9,
         "super": 164.9
       }
@@ -196,7 +196,7 @@
       "prices": {
         "unleaded": 155.9,
         "diesel": 172.9,
-        "super": 163.9
+        "super": 165.9
       }
     },
     {
