@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:14:17.593Z",
+  "updatedAt": "2026-08-24T09:32:27.885Z",
   "items": [
     {
       "retailer": "Costco",
@@ -8,7 +8,7 @@
       "postcode": "B7 5SA",
       "prices": {
         "unleaded": 151.9,
-        "diesel": 170.9,
+        "diesel": 172.9,
         "super": 164.9
       }
     },
@@ -40,8 +40,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 153.9,
-        "diesel": 174.9,
+        "unleaded": 154.9,
+        "diesel": 175.9,
         "super": 165.9
       }
     },
@@ -74,7 +74,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 155.9,
-        "diesel": 173.9,
+        "diesel": 175.9,
         "super": 166.9
       }
     },
@@ -85,7 +85,7 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 154.9,
-        "diesel": 174.9,
+        "diesel": 175.9,
         "super": 166.9
       }
     },
@@ -97,7 +97,7 @@
       "prices": {
         "unleaded": 151.9,
         "diesel": 172.9,
-        "super": 161.9
+        "super": 164.9
       }
     },
     {
@@ -128,7 +128,7 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 150.9,
+        "unleaded": 151.9,
         "diesel": 170.9,
         "super": 161.9
       }
