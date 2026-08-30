@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T14:03:43.537Z",
+  "updatedAt": "2026-08-30T14:02:35.839Z",
   "items": [
     {
       "retailer": "Costco",
@@ -102,17 +102,6 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Leeds",
-      "town": "Leeds",
-      "postcode": "LS10 1BG",
-      "prices": {
-        "unleaded": 151.9,
-        "diesel": 172.9,
-        "super": 161.9
-      }
-    },
-    {
-      "retailer": "Costco",
       "site": "Costco Leicester",
       "town": "Leicester",
       "postcode": "LE4 8BX",
@@ -190,6 +179,17 @@
     },
     {
       "retailer": "Costco",
+      "site": "Costco Stevenage",
+      "town": "Stevenage",
+      "postcode": "SG1 2EH",
+      "prices": {
+        "unleaded": 156.9,
+        "diesel": 174.9,
+        "super": 166.9
+      }
+    },
+    {
+      "retailer": "Costco",
       "site": "Costco Thurrock",
       "town": "Thurrock",
       "postcode": "RM20 3WY",
@@ -213,8 +213,8 @@
   ],
   "errors": [
     {
-      "store": "Stevenage",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Stevenage\", waiting until \"networkidle\"\n"
+      "store": "Leeds",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Leeds\", waiting until \"networkidle\"\n"
     }
   ]
 }
