@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:02:35.839Z",
+  "updatedAt": "2026-08-31T16:26:51.169Z",
   "items": [
     {
       "retailer": "Costco",
@@ -40,7 +40,7 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 153.9,
+        "unleaded": 154.9,
         "diesel": 176.9,
         "super": 165.9
       }
@@ -102,6 +102,17 @@
     },
     {
       "retailer": "Costco",
+      "site": "Costco Leeds",
+      "town": "Leeds",
+      "postcode": "LS10 1BG",
+      "prices": {
+        "unleaded": 151.9,
+        "diesel": 172.9,
+        "super": 161.9
+      }
+    },
+    {
+      "retailer": "Costco",
       "site": "Costco Leicester",
       "town": "Leicester",
       "postcode": "LE4 8BX",
@@ -146,17 +157,6 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Reading",
-      "town": "Reading",
-      "postcode": "RG2 6UE",
-      "prices": {
-        "unleaded": 156.9,
-        "diesel": 178.9,
-        "super": 166.9
-      }
-    },
-    {
-      "retailer": "Costco",
       "site": "Costco Sheffield",
       "town": "Sheffield",
       "postcode": "S9 4WU",
@@ -173,7 +173,7 @@
       "postcode": "SO15 8TA",
       "prices": {
         "unleaded": 155.9,
-        "diesel": 176.9,
+        "diesel": 177.9,
         "super": 166.9
       }
     },
@@ -213,8 +213,8 @@
   ],
   "errors": [
     {
-      "store": "Leeds",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Leeds\", waiting until \"networkidle\"\n"
+      "store": "Reading",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Reading\", waiting until \"networkidle\"\n"
     }
   ]
 }
