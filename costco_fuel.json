@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T16:26:51.169Z",
+  "updatedAt": "2026-09-01T13:44:23.798Z",
   "items": [
     {
       "retailer": "Costco",
@@ -157,6 +157,17 @@
     },
     {
       "retailer": "Costco",
+      "site": "Costco Reading",
+      "town": "Reading",
+      "postcode": "RG2 6UE",
+      "prices": {
+        "unleaded": 156.9,
+        "diesel": 178.9,
+        "super": 166.9
+      }
+    },
+    {
+      "retailer": "Costco",
       "site": "Costco Sheffield",
       "town": "Sheffield",
       "postcode": "S9 4WU",
@@ -211,10 +222,5 @@
       }
     }
   ],
-  "errors": [
-    {
-      "store": "Reading",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Reading\", waiting until \"networkidle\"\n"
-    }
-  ]
+  "errors": []
 }
