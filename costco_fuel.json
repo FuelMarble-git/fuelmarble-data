@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:44:23.798Z",
+  "updatedAt": "2026-09-02T13:01:55.676Z",
   "items": [
     {
       "retailer": "Costco",
@@ -30,7 +30,7 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 156.9,
-        "diesel": 177.9,
+        "diesel": 175.9,
         "super": 170.9
       }
     },
@@ -40,7 +40,7 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 154.9,
+        "unleaded": 155.9,
         "diesel": 176.9,
         "super": 165.9
       }
@@ -113,17 +113,6 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Leicester",
-      "town": "Leicester",
-      "postcode": "LE4 8BX",
-      "prices": {
-        "unleaded": 153.9,
-        "diesel": 171.9,
-        "super": 163.9
-      }
-    },
-    {
-      "retailer": "Costco",
       "site": "Costco Liverpool",
       "town": "Liverpool",
       "postcode": "L3 7HY",
@@ -162,7 +151,7 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 156.9,
-        "diesel": 178.9,
+        "diesel": 179.9,
         "super": 166.9
       }
     },
@@ -222,5 +211,10 @@
       }
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "store": "Leicester",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Leicester\", waiting until \"networkidle\"\n"
+    }
+  ]
 }
