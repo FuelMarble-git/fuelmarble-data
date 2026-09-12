@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:03:59.195Z",
+  "updatedAt": "2026-09-12T12:25:58.934Z",
   "items": [
     {
       "retailer": "Costco",
@@ -18,9 +18,9 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 159.9,
-        "diesel": 181.9,
-        "super": 171.9
+        "unleaded": 160.9,
+        "diesel": 183.9,
+        "super": 175.9
       }
     },
     {
@@ -29,9 +29,9 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 161.9,
-        "diesel": 183.9,
-        "super": 172.9
+        "unleaded": 162.9,
+        "diesel": 184.9,
+        "super": 175.9
       }
     },
     {
@@ -40,7 +40,7 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 159.9,
         "diesel": 180.9,
         "super": 168.9
       }
@@ -62,8 +62,8 @@
       "town": "Edinburgh",
       "postcode": "EH20 9BY",
       "prices": {
-        "unleaded": 153.9,
-        "diesel": 172.9,
+        "unleaded": 154.9,
+        "diesel": 174.9,
         "super": 164.9
       }
     },
@@ -74,7 +74,7 @@
       "postcode": "NE11 9DH",
       "prices": {
         "unleaded": 160.9,
-        "diesel": 181.9,
+        "diesel": 183.9,
         "super": 169.9
       }
     },
@@ -84,8 +84,8 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 160.9,
-        "diesel": 180.9,
+        "unleaded": 161.9,
+        "diesel": 183.9,
         "super": 169.9
       }
     },
@@ -117,9 +117,9 @@
       "town": "Leicester",
       "postcode": "LE4 8BX",
       "prices": {
-        "unleaded": 158.9,
-        "diesel": 179.9,
-        "super": 166.9
+        "unleaded": 159.9,
+        "diesel": 180.9,
+        "super": 167.9
       }
     },
     {
@@ -128,9 +128,9 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 155.9,
-        "diesel": 176.9,
-        "super": 165.9
+        "unleaded": 157.9,
+        "diesel": 177.9,
+        "super": 166.9
       }
     },
     {
@@ -174,7 +174,7 @@
       "prices": {
         "unleaded": 154.9,
         "diesel": 173.9,
-        "super": 166.9
+        "super": 167.9
       }
     },
     {
