@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T13:30:06.512Z",
+  "updatedAt": "2026-09-14T15:17:33.764Z",
   "items": [
     {
       "retailer": "Costco",
@@ -29,8 +29,8 @@
       "town": "Chester",
       "postcode": "CH1 6LT",
       "prices": {
-        "unleaded": 162.9,
-        "diesel": 184.9,
+        "unleaded": 163.9,
+        "diesel": 186.9,
         "super": 176.9
       }
     },
@@ -96,7 +96,7 @@
       "postcode": "WA11 9FA",
       "prices": {
         "unleaded": 160.9,
-        "diesel": 180.9,
+        "diesel": 181.9,
         "super": 168.9
       }
     },
@@ -106,8 +106,8 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 158.9,
-        "diesel": 180.9,
+        "unleaded": 159.9,
+        "diesel": 181.9,
         "super": 167.9
       }
     },
@@ -139,7 +139,7 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 158.9,
         "diesel": 180.9,
         "super": 166.9
       }
