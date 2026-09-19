@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:13:02.105Z",
+  "updatedAt": "2026-09-19T12:43:49.503Z",
   "items": [
     {
       "retailer": "Costco",
@@ -216,9 +216,9 @@
       "town": "Watford",
       "postcode": "WD25 8JS",
       "prices": {
-        "unleaded": 159.9,
+        "unleaded": 158.9,
         "diesel": 179.9,
-        "super": 169.9
+        "super": 168.9
       }
     }
   ],
