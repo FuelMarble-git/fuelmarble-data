@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:43:49.503Z",
+  "updatedAt": "2026-09-20T13:15:25.022Z",
   "items": [
     {
       "retailer": "Costco",
@@ -86,7 +86,7 @@
       "prices": {
         "unleaded": 166.9,
         "diesel": 185.9,
-        "super": 174.9
+        "super": 175.9
       }
     },
     {
@@ -118,8 +118,8 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 165.9,
-        "diesel": 184.9,
-        "super": 173.9
+        "diesel": 185.9,
+        "super": 174.9
       }
     },
     {
@@ -162,8 +162,8 @@
       "postcode": "RG2 6UE",
       "prices": {
         "unleaded": 166.9,
-        "diesel": 191.9,
-        "super": 176.9
+        "diesel": 192.9,
+        "super": 177.9
       }
     },
     {
@@ -185,7 +185,7 @@
       "prices": {
         "unleaded": 162.9,
         "diesel": 187.9,
-        "super": 176.9
+        "super": 179.9
       }
     },
     {
@@ -206,7 +206,7 @@
       "postcode": "RM20 3WY",
       "prices": {
         "unleaded": 163.9,
-        "diesel": 182.9,
+        "diesel": 184.9,
         "super": 172.9
       }
     },
