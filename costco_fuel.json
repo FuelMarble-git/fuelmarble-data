@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:21:06.406Z",
+  "updatedAt": "2026-09-28T17:05:52.619Z",
   "items": [
     {
       "retailer": "Costco",
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 165.9,
         "diesel": 192.9,
-        "super": 179.9
+        "super": 180.9
       }
     },
     {
@@ -41,7 +41,7 @@
       "postcode": "CV4 9AQ",
       "prices": {
         "unleaded": 167.9,
-        "diesel": 190.9,
+        "diesel": 191.9,
         "super": 174.9
       }
     },
@@ -106,8 +106,8 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 161.9,
-        "diesel": 183.9,
+        "unleaded": 162.9,
+        "diesel": 185.9,
         "super": 170.9
       }
     },
@@ -139,7 +139,7 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 162.9,
+        "unleaded": 163.9,
         "diesel": 188.9,
         "super": 173.9
       }
@@ -150,7 +150,7 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 162.9,
+        "unleaded": 163.9,
         "diesel": 185.9,
         "super": 171.9
       }
@@ -190,17 +190,6 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Stevenage",
-      "town": "Stevenage",
-      "postcode": "SG1 2EH",
-      "prices": {
-        "unleaded": 166.9,
-        "diesel": 187.9,
-        "super": 174.9
-      }
-    },
-    {
-      "retailer": "Costco",
       "site": "Costco Thurrock",
       "town": "Thurrock",
       "postcode": "RM20 3WY",
@@ -222,5 +211,10 @@
       }
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "store": "Stevenage",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Stevenage\", waiting until \"networkidle\"\n"
+    }
+  ]
 }
