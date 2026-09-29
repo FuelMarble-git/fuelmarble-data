@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T17:05:52.619Z",
+  "updatedAt": "2026-09-29T15:09:50.142Z",
   "items": [
     {
       "retailer": "Costco",
@@ -9,7 +9,7 @@
       "prices": {
         "unleaded": 164.9,
         "diesel": 187.9,
-        "super": 174.9
+        "super": 175.9
       }
     },
     {
@@ -18,8 +18,8 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 167.9,
-        "diesel": 191.9,
+        "unleaded": 168.9,
+        "diesel": 192.9,
         "super": 180.9
       }
     },
@@ -30,8 +30,8 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 165.9,
-        "diesel": 192.9,
-        "super": 180.9
+        "diesel": 193.9,
+        "super": 181.9
       }
     },
     {
@@ -40,8 +40,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 167.9,
-        "diesel": 191.9,
+        "unleaded": 168.9,
+        "diesel": 193.9,
         "super": 174.9
       }
     },
@@ -62,9 +62,9 @@
       "town": "Edinburgh",
       "postcode": "EH20 9BY",
       "prices": {
-        "unleaded": 162.9,
-        "diesel": 182.9,
-        "super": 170.9
+        "unleaded": 163.9,
+        "diesel": 184.9,
+        "super": 171.9
       }
     },
     {
@@ -73,9 +73,9 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 167.9,
-        "diesel": 192.9,
-        "super": 177.9
+        "unleaded": 168.9,
+        "diesel": 193.9,
+        "super": 178.9
       }
     },
     {
@@ -96,7 +96,7 @@
       "postcode": "WA11 9FA",
       "prices": {
         "unleaded": 162.9,
-        "diesel": 187.9,
+        "diesel": 188.9,
         "super": 172.9
       }
     },
@@ -118,8 +118,8 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 166.9,
-        "diesel": 190.9,
-        "super": 174.9
+        "diesel": 191.9,
+        "super": 175.9
       }
     },
     {
@@ -129,7 +129,7 @@
       "postcode": "L3 7HY",
       "prices": {
         "unleaded": 158.9,
-        "diesel": 186.9,
+        "diesel": 188.9,
         "super": 166.9
       }
     },
@@ -140,8 +140,8 @@
       "postcode": "M41 7PP",
       "prices": {
         "unleaded": 163.9,
-        "diesel": 188.9,
-        "super": 173.9
+        "diesel": 189.9,
+        "super": 174.9
       }
     },
     {
@@ -150,9 +150,9 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 163.9,
-        "diesel": 185.9,
-        "super": 171.9
+        "unleaded": 164.9,
+        "diesel": 186.9,
+        "super": 172.9
       }
     },
     {
@@ -163,7 +163,7 @@
       "prices": {
         "unleaded": 170.9,
         "diesel": 195.9,
-        "super": 178.9
+        "super": 179.9
       }
     },
     {
@@ -172,9 +172,9 @@
       "town": "Sheffield",
       "postcode": "S9 4WU",
       "prices": {
-        "unleaded": 164.9,
-        "diesel": 185.9,
-        "super": 174.9
+        "unleaded": 166.9,
+        "diesel": 188.9,
+        "super": 175.9
       }
     },
     {
@@ -190,13 +190,24 @@
     },
     {
       "retailer": "Costco",
+      "site": "Costco Stevenage",
+      "town": "Stevenage",
+      "postcode": "SG1 2EH",
+      "prices": {
+        "unleaded": 167.9,
+        "diesel": 187.9,
+        "super": 175.9
+      }
+    },
+    {
+      "retailer": "Costco",
       "site": "Costco Thurrock",
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 166.9,
-        "diesel": 189.9,
-        "super": 174.9
+        "unleaded": 168.9,
+        "diesel": 191.9,
+        "super": 176.9
       }
     },
     {
@@ -205,16 +216,11 @@
       "town": "Watford",
       "postcode": "WD25 8JS",
       "prices": {
-        "unleaded": 162.9,
-        "diesel": 182.9,
-        "super": 171.9
+        "unleaded": 163.9,
+        "diesel": 184.9,
+        "super": 172.9
       }
     }
   ],
-  "errors": [
-    {
-      "store": "Stevenage",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Stevenage\", waiting until \"networkidle\"\n"
-    }
-  ]
+  "errors": []
 }
