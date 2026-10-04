@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T13:59:04.585Z",
+  "updatedAt": "2026-10-04T14:29:44.939Z",
   "items": [
     {
       "retailer": "Costco",
@@ -9,7 +9,7 @@
       "prices": {
         "unleaded": 164.9,
         "diesel": 189.9,
-        "super": 176.9
+        "super": 177.9
       }
     },
     {
@@ -18,8 +18,8 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 168.9,
-        "diesel": 192.9,
+        "unleaded": 169.9,
+        "diesel": 193.9,
         "super": 182.9
       }
     },
@@ -40,8 +40,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 168.9,
-        "diesel": 193.9,
+        "unleaded": 169.9,
+        "diesel": 194.9,
         "super": 174.9
       }
     },
@@ -62,9 +62,9 @@
       "town": "Edinburgh",
       "postcode": "EH20 9BY",
       "prices": {
-        "unleaded": 165.9,
-        "diesel": 184.9,
-        "super": 173.9
+        "unleaded": 166.9,
+        "diesel": 186.9,
+        "super": 174.9
       }
     },
     {
@@ -97,7 +97,7 @@
       "prices": {
         "unleaded": 162.9,
         "diesel": 188.9,
-        "super": 172.9
+        "super": 170.9
       }
     },
     {
@@ -118,19 +118,8 @@
       "postcode": "LE4 8BX",
       "prices": {
         "unleaded": 168.9,
-        "diesel": 192.9,
-        "super": 176.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Liverpool",
-      "town": "Liverpool",
-      "postcode": "L3 7HY",
-      "prices": {
-        "unleaded": 161.9,
-        "diesel": 188.9,
-        "super": 169.9
+        "diesel": 193.9,
+        "super": 177.9
       }
     },
     {
@@ -141,7 +130,7 @@
       "prices": {
         "unleaded": 163.9,
         "diesel": 189.9,
-        "super": 174.9
+        "super": 175.9
       }
     },
     {
@@ -151,8 +140,8 @@
       "postcode": "OL9 8AU",
       "prices": {
         "unleaded": 165.9,
-        "diesel": 187.9,
-        "super": 173.9
+        "diesel": 188.9,
+        "super": 174.9
       }
     },
     {
@@ -163,7 +152,7 @@
       "prices": {
         "unleaded": 171.9,
         "diesel": 196.9,
-        "super": 179.9
+        "super": 181.9
       }
     },
     {
@@ -174,7 +163,7 @@
       "prices": {
         "unleaded": 167.9,
         "diesel": 189.9,
-        "super": 176.9
+        "super": 177.9
       }
     },
     {
@@ -196,7 +185,7 @@
       "prices": {
         "unleaded": 167.9,
         "diesel": 188.9,
-        "super": 175.9
+        "super": 176.9
       }
     },
     {
@@ -207,20 +196,18 @@
       "prices": {
         "unleaded": 168.9,
         "diesel": 193.9,
-        "super": 176.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Watford",
-      "town": "Watford",
-      "postcode": "WD25 8JS",
-      "prices": {
-        "unleaded": 165.9,
-        "diesel": 184.9,
-        "super": 174.9
+        "super": 177.9
       }
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "store": "Liverpool",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Liverpool\", waiting until \"networkidle\"\n"
+    },
+    {
+      "store": "Watford",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Watford\", waiting until \"networkidle\"\n"
+    }
+  ]
 }
