@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T14:29:44.939Z",
+  "updatedAt": "2026-10-05T17:30:37.094Z",
   "items": [
     {
       "retailer": "Costco",
@@ -124,6 +124,17 @@
     },
     {
       "retailer": "Costco",
+      "site": "Costco Liverpool",
+      "town": "Liverpool",
+      "postcode": "L3 7HY",
+      "prices": {
+        "unleaded": 161.9,
+        "diesel": 190.9,
+        "super": 169.9
+      }
+    },
+    {
+      "retailer": "Costco",
       "site": "Costco Manchester",
       "town": "Manchester",
       "postcode": "M41 7PP",
@@ -142,17 +153,6 @@
         "unleaded": 165.9,
         "diesel": 188.9,
         "super": 174.9
-      }
-    },
-    {
-      "retailer": "Costco",
-      "site": "Costco Reading",
-      "town": "Reading",
-      "postcode": "RG2 6UE",
-      "prices": {
-        "unleaded": 171.9,
-        "diesel": 196.9,
-        "super": 181.9
       }
     },
     {
@@ -190,24 +190,24 @@
     },
     {
       "retailer": "Costco",
-      "site": "Costco Thurrock",
-      "town": "Thurrock",
-      "postcode": "RM20 3WY",
+      "site": "Costco Watford",
+      "town": "Watford",
+      "postcode": "WD25 8JS",
       "prices": {
-        "unleaded": 168.9,
-        "diesel": 193.9,
-        "super": 177.9
+        "unleaded": 165.9,
+        "diesel": 186.9,
+        "super": 175.9
       }
     }
   ],
   "errors": [
     {
-      "store": "Liverpool",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Liverpool\", waiting until \"networkidle\"\n"
+      "store": "Reading",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Reading\", waiting until \"networkidle\"\n"
     },
     {
-      "store": "Watford",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Watford\", waiting until \"networkidle\"\n"
+      "store": "Thurrock",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Thurrock\", waiting until \"networkidle\"\n"
     }
   ]
 }
