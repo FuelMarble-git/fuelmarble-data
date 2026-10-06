@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:30:37.094Z",
+  "updatedAt": "2026-10-06T15:31:57.088Z",
   "items": [
     {
       "retailer": "Costco",
@@ -30,7 +30,7 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 162.9,
-        "diesel": 192.9,
+        "diesel": 186.9,
         "super": 182.9
       }
     },
@@ -107,7 +107,7 @@
       "postcode": "LS10 1BG",
       "prices": {
         "unleaded": 162.9,
-        "diesel": 187.9,
+        "diesel": 188.9,
         "super": 170.9
       }
     },
@@ -150,20 +150,20 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 165.9,
-        "diesel": 188.9,
+        "unleaded": 166.9,
+        "diesel": 189.9,
         "super": 174.9
       }
     },
     {
       "retailer": "Costco",
-      "site": "Costco Sheffield",
-      "town": "Sheffield",
-      "postcode": "S9 4WU",
+      "site": "Costco Reading",
+      "town": "Reading",
+      "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 167.9,
-        "diesel": 189.9,
-        "super": 177.9
+        "unleaded": 171.9,
+        "diesel": 196.9,
+        "super": 181.9
       }
     },
     {
@@ -183,31 +183,31 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 167.9,
+        "unleaded": 168.9,
         "diesel": 188.9,
         "super": 176.9
       }
     },
     {
       "retailer": "Costco",
-      "site": "Costco Watford",
-      "town": "Watford",
-      "postcode": "WD25 8JS",
+      "site": "Costco Thurrock",
+      "town": "Thurrock",
+      "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 165.9,
-        "diesel": 186.9,
-        "super": 175.9
+        "unleaded": 168.9,
+        "diesel": 194.9,
+        "super": 177.9
       }
     }
   ],
   "errors": [
     {
-      "store": "Reading",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Reading\", waiting until \"networkidle\"\n"
+      "store": "Sheffield",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Sheffield\", waiting until \"networkidle\"\n"
     },
     {
-      "store": "Thurrock",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Thurrock\", waiting until \"networkidle\"\n"
+      "store": "Watford",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Watford\", waiting until \"networkidle\"\n"
     }
   ]
 }
