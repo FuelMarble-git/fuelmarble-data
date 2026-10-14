@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T16:30:21.129Z",
+  "updatedAt": "2026-10-14T14:06:13.544Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,8 +7,8 @@
       "town": "Birmingham",
       "postcode": "B7 5SA",
       "prices": {
-        "unleaded": 164.9,
-        "diesel": 189.9,
+        "unleaded": 162.9,
+        "diesel": 187.9,
         "super": 177.9
       }
     },
@@ -19,7 +19,7 @@
       "postcode": "BS11 9EZ",
       "prices": {
         "unleaded": 168.9,
-        "diesel": 193.9,
+        "diesel": 192.9,
         "super": 178.9
       }
     },
@@ -117,7 +117,7 @@
       "town": "Leicester",
       "postcode": "LE4 8BX",
       "prices": {
-        "unleaded": 167.9,
+        "unleaded": 166.9,
         "diesel": 191.9,
         "super": 177.9
       }
@@ -161,7 +161,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 171.9,
+        "unleaded": 170.9,
         "diesel": 194.9,
         "super": 181.9
       }
@@ -173,7 +173,7 @@
       "postcode": "S9 4WU",
       "prices": {
         "unleaded": 166.9,
-        "diesel": 187.9,
+        "diesel": 186.9,
         "super": 176.9
       }
     },
