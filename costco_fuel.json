@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T14:10:59.058Z",
+  "updatedAt": "2026-10-22T14:08:52.715Z",
   "items": [
     {
       "retailer": "Costco",
@@ -51,7 +51,7 @@
       "town": "Derby",
       "postcode": "DE21 6RS",
       "prices": {
-        "unleaded": 167.9,
+        "unleaded": 166.9,
         "diesel": 192.9,
         "super": 177.9
       }
@@ -129,7 +129,7 @@
       "postcode": "L3 7HY",
       "prices": {
         "unleaded": 161.9,
-        "diesel": 182.9,
+        "diesel": 185.9,
         "super": 169.9
       }
     },
