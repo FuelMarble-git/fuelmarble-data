@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T15:31:39.662Z",
+  "updatedAt": "2026-10-27T15:03:25.371Z",
   "items": [
     {
       "retailer": "Costco",
@@ -41,7 +41,7 @@
       "postcode": "CV4 9AQ",
       "prices": {
         "unleaded": 166.9,
-        "diesel": 191.9,
+        "diesel": 192.9,
         "super": 178.9
       }
     },
@@ -51,7 +51,7 @@
       "town": "Derby",
       "postcode": "DE21 6RS",
       "prices": {
-        "unleaded": 166.9,
+        "unleaded": 164.9,
         "diesel": 192.9,
         "super": 176.9
       }
@@ -95,7 +95,7 @@
       "town": "Haydock",
       "postcode": "WA11 9FA",
       "prices": {
-        "unleaded": 161.9,
+        "unleaded": 158.9,
         "diesel": 187.9,
         "super": 172.9
       }
@@ -183,9 +183,9 @@
       "town": "Southampton",
       "postcode": "SO15 8TA",
       "prices": {
-        "unleaded": 168.9,
+        "unleaded": 166.9,
         "diesel": 194.9,
-        "super": 177.9
+        "super": 175.9
       }
     },
     {
@@ -194,7 +194,7 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 168.9,
+        "unleaded": 166.9,
         "diesel": 189.9,
         "super": 176.9
       }
