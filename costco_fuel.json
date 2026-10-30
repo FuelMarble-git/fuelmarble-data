@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:39:52.248Z",
+  "updatedAt": "2026-10-30T15:23:11.440Z",
   "items": [
     {
       "retailer": "Costco",
@@ -9,7 +9,7 @@
       "prices": {
         "unleaded": 160.9,
         "diesel": 187.9,
-        "super": 174.9
+        "super": 173.9
       }
     },
     {
@@ -18,9 +18,9 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 166.9,
-        "diesel": 193.9,
-        "super": 177.9
+        "unleaded": 165.9,
+        "diesel": 192.9,
+        "super": 178.9
       }
     },
     {
@@ -30,8 +30,8 @@
       "postcode": "CH1 6LT",
       "prices": {
         "unleaded": 156.9,
-        "diesel": 194.9,
-        "super": 179.9
+        "diesel": 192.9,
+        "super": 178.9
       }
     },
     {
@@ -42,7 +42,7 @@
       "prices": {
         "unleaded": 165.9,
         "diesel": 191.9,
-        "super": 177.9
+        "super": 175.9
       }
     },
     {
@@ -53,7 +53,7 @@
       "prices": {
         "unleaded": 164.9,
         "diesel": 192.9,
-        "super": 176.9
+        "super": 175.9
       }
     },
     {
@@ -85,7 +85,7 @@
       "postcode": "G21 1YX",
       "prices": {
         "unleaded": 165.9,
-        "diesel": 190.9,
+        "diesel": 188.9,
         "super": 174.9
       }
     },
@@ -96,7 +96,7 @@
       "postcode": "WA11 9FA",
       "prices": {
         "unleaded": 158.9,
-        "diesel": 187.9,
+        "diesel": 186.9,
         "super": 172.9
       }
     },
@@ -139,9 +139,9 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 162.9,
+        "unleaded": 158.9,
         "diesel": 186.9,
-        "super": 174.9
+        "super": 171.9
       }
     },
     {
@@ -150,9 +150,9 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 165.9,
+        "unleaded": 163.9,
         "diesel": 188.9,
-        "super": 174.9
+        "super": 173.9
       }
     },
     {
@@ -163,7 +163,7 @@
       "prices": {
         "unleaded": 168.9,
         "diesel": 194.9,
-        "super": 180.9
+        "super": 178.9
       }
     },
     {
@@ -174,7 +174,7 @@
       "prices": {
         "unleaded": 166.9,
         "diesel": 186.9,
-        "super": 176.9
+        "super": 175.9
       }
     },
     {
@@ -196,7 +196,7 @@
       "prices": {
         "unleaded": 166.9,
         "diesel": 189.9,
-        "super": 176.9
+        "super": 175.9
       }
     },
     {
@@ -205,9 +205,9 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 166.9,
-        "diesel": 191.9,
-        "super": 174.9
+        "unleaded": 164.9,
+        "diesel": 190.9,
+        "super": 172.9
       }
     },
     {
