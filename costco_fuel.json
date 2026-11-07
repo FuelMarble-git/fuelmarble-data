@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:22:17.686Z",
+  "updatedAt": "2026-11-07T15:14:48.806Z",
   "items": [
     {
       "retailer": "Costco",
@@ -20,7 +20,7 @@
       "prices": {
         "unleaded": 162.9,
         "diesel": 191.9,
-        "super": 177.9
+        "super": 176.9
       }
     },
     {
@@ -40,8 +40,8 @@
       "town": "Coventry",
       "postcode": "CV4 9AQ",
       "prices": {
-        "unleaded": 163.9,
-        "diesel": 190.9,
+        "unleaded": 162.9,
+        "diesel": 189.9,
         "super": 171.9
       }
     },
@@ -53,7 +53,7 @@
       "prices": {
         "unleaded": 161.9,
         "diesel": 191.9,
-        "super": 170.9
+        "super": 171.9
       }
     },
     {
@@ -84,8 +84,8 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 163.9,
-        "diesel": 188.9,
+        "unleaded": 162.9,
+        "diesel": 187.9,
         "super": 173.9
       }
     },
@@ -108,7 +108,7 @@
       "prices": {
         "unleaded": 158.9,
         "diesel": 184.9,
-        "super": 168.9
+        "super": 167.9
       }
     },
     {
@@ -146,11 +146,22 @@
     },
     {
       "retailer": "Costco",
+      "site": "Costco Oldham",
+      "town": "Oldham",
+      "postcode": "OL9 8AU",
+      "prices": {
+        "unleaded": 161.9,
+        "diesel": 186.9,
+        "super": 171.9
+      }
+    },
+    {
+      "retailer": "Costco",
       "site": "Costco Reading",
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 165.9,
+        "unleaded": 164.9,
         "diesel": 194.9,
         "super": 174.9
       }
@@ -183,7 +194,7 @@
       "town": "Stevenage",
       "postcode": "SG1 2EH",
       "prices": {
-        "unleaded": 163.9,
+        "unleaded": 162.9,
         "diesel": 189.9,
         "super": 173.9
       }
@@ -211,10 +222,5 @@
       }
     }
   ],
-  "errors": [
-    {
-      "store": "Oldham",
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.costco.co.uk/store-finder/Oldham\", waiting until \"networkidle\"\n"
-    }
-  ]
+  "errors": []
 }
