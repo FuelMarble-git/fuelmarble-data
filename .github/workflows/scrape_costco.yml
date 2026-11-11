@@ -13,17 +13,25 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Install deps
         run: npm install
 
+      # Retries: the apt step inside --with-deps can fail on a transient runner
+      # network/DNS blip (seen 11 Nov 2026), which otherwise fails the whole run.
       - name: Install Playwright browsers
-        run: npx playwright install --with-deps chromium
+        run: |
+          for i in 1 2 3; do
+            if npx playwright install --with-deps chromium; then exit 0; fi
+            echo "Playwright install failed (attempt $i of 3), retrying in 30s"
+            sleep 30
+          done
+          exit 1
 
       - name: Run scraper
         run: npm run scrape:costco
