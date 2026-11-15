@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:22:56.185Z",
+  "updatedAt": "2026-11-15T15:55:02.112Z",
   "items": [
     {
       "retailer": "Costco",
@@ -7,7 +7,7 @@
       "town": "Birmingham",
       "postcode": "B7 5SA",
       "prices": {
-        "unleaded": 152.9,
+        "unleaded": 151.9,
         "diesel": 181.9,
         "super": 165.9
       }
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 154.9,
         "diesel": 185.9,
-        "super": 169.9
+        "super": 168.9
       }
     },
     {
@@ -51,9 +51,9 @@
       "town": "Derby",
       "postcode": "DE21 6RS",
       "prices": {
-        "unleaded": 157.9,
-        "diesel": 188.9,
-        "super": 170.9
+        "unleaded": 156.9,
+        "diesel": 187.9,
+        "super": 167.9
       }
     },
     {
