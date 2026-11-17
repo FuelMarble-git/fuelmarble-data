@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T18:58:44.412Z",
+  "updatedAt": "2026-11-17T17:56:39.232Z",
   "items": [
     {
       "retailer": "Costco",
@@ -9,7 +9,7 @@
       "prices": {
         "unleaded": 151.9,
         "diesel": 181.9,
-        "super": 165.9
+        "super": 164.9
       }
     },
     {
@@ -18,9 +18,9 @@
       "town": "Bristol",
       "postcode": "BS11 9EZ",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 156.9,
         "diesel": 188.9,
-        "super": 171.9
+        "super": 170.9
       }
     },
     {
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 154.9,
         "diesel": 185.9,
-        "super": 168.9
+        "super": 167.9
       }
     },
     {
@@ -53,7 +53,7 @@
       "prices": {
         "unleaded": 156.9,
         "diesel": 187.9,
-        "super": 167.9
+        "super": 166.9
       }
     },
     {
@@ -73,9 +73,9 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 156.9,
+        "unleaded": 154.9,
         "diesel": 188.9,
-        "super": 165.9
+        "super": 163.9
       }
     },
     {
@@ -84,7 +84,7 @@
       "town": "Glasgow",
       "postcode": "G21 1YX",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 156.9,
         "diesel": 188.9,
         "super": 165.9
       }
@@ -128,7 +128,7 @@
       "town": "Liverpool",
       "postcode": "L3 7HY",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 155.9,
         "diesel": 184.9,
         "super": 164.9
       }
@@ -139,9 +139,9 @@
       "town": "Manchester",
       "postcode": "M41 7PP",
       "prices": {
-        "unleaded": 148.9,
+        "unleaded": 147.9,
         "diesel": 175.9,
-        "super": 162.9
+        "super": 159.9
       }
     },
     {
@@ -150,7 +150,7 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 156.9,
         "diesel": 187.9,
         "super": 165.9
       }
@@ -161,7 +161,7 @@
       "town": "Reading",
       "postcode": "RG2 6UE",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 156.9,
         "diesel": 188.9,
         "super": 165.9
       }
@@ -185,7 +185,7 @@
       "prices": {
         "unleaded": 157.9,
         "diesel": 188.9,
-        "super": 168.9
+        "super": 167.9
       }
     },
     {
@@ -196,7 +196,7 @@
       "prices": {
         "unleaded": 157.9,
         "diesel": 188.9,
-        "super": 165.9
+        "super": 164.9
       }
     },
     {
@@ -216,7 +216,7 @@
       "town": "Watford",
       "postcode": "WD25 8JS",
       "prices": {
-        "unleaded": 157.9,
+        "unleaded": 156.9,
         "diesel": 186.9,
         "super": 166.9
       }
