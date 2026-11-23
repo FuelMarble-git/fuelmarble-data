@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T16:44:08.089Z",
+  "updatedAt": "2026-11-23T20:38:12.250Z",
   "items": [
     {
       "retailer": "Costco",
@@ -31,7 +31,7 @@
       "prices": {
         "unleaded": 152.9,
         "diesel": 183.9,
-        "super": 164.9
+        "super": 163.9
       }
     },
     {
@@ -73,9 +73,9 @@
       "town": "Gateshead",
       "postcode": "NE11 9DH",
       "prices": {
-        "unleaded": 152.9,
+        "unleaded": 150.9,
         "diesel": 187.9,
-        "super": 161.9
+        "super": 159.9
       }
     },
     {
@@ -106,9 +106,9 @@
       "town": "Leeds",
       "postcode": "LS10 1BG",
       "prices": {
-        "unleaded": 151.9,
-        "diesel": 183.9,
-        "super": 159.9
+        "unleaded": 150.9,
+        "diesel": 182.9,
+        "super": 157.9
       }
     },
     {
@@ -150,9 +150,9 @@
       "town": "Oldham",
       "postcode": "OL9 8AU",
       "prices": {
-        "unleaded": 153.9,
+        "unleaded": 152.9,
         "diesel": 185.9,
-        "super": 162.9
+        "super": 161.9
       }
     },
     {
@@ -173,8 +173,8 @@
       "postcode": "S9 4WU",
       "prices": {
         "unleaded": 152.9,
-        "diesel": 186.9,
-        "super": 162.9
+        "diesel": 185.9,
+        "super": 161.9
       }
     },
     {
@@ -205,7 +205,7 @@
       "town": "Thurrock",
       "postcode": "RM20 3WY",
       "prices": {
-        "unleaded": 153.9,
+        "unleaded": 152.9,
         "diesel": 186.9,
         "super": 162.9
       }
